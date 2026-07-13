@@ -1,0 +1,30 @@
+{
+  "homeAirport": "ORD",
+  "tennis": {
+    "favorites": ["Jannik Sinner", "Novak Djokovic", "Carlos Alcaraz", "Flavio Cobolli", "Daniil Medvedev"]
+  },
+  "f1": {
+    "teams": ["Ferrari", "Mercedes"],
+    "drivers": ["Max Verstappen", "Andrea Kimi Antonelli", "Charles Leclerc"]
+  },
+  "purdue": {
+    "rivals": {
+      "Indiana": 100,
+      "Indiana Hoosiers": 100,
+      "Notre Dame": 85,
+      "Notre Dame Fighting Irish": 85,
+      "Illinois": 75,
+      "Illinois Fighting Illini": 75,
+      "Northwestern": 55,
+      "Northwestern Wildcats": 55
+    },
+    "premiumPrograms": [
+      "Ohio State", "Michigan", "Alabama", "Georgia", "Texas", "USC", "Oregon", "Penn State",
+      "Duke", "Kansas", "Kentucky", "North Carolina", "UConn", "Gonzaga", "Houston", "Michigan State", "Arizona", "UCLA"
+    ]
+  },
+  "weights": {
+    "getaway": { "distance": 40, "ordNonstop": 30, "hub": 15, "domestic": 15 },
+    "interest": { "winnable": 25, "closeness": 25, "rivalry": 25, "opponentQuality": 15, "demand": 10 }
+  }
+}

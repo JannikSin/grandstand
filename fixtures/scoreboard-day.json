@@ -1,0 +1,51 @@
+{
+  "events": [
+    {
+      "id": "421-2026",
+      "name": "Mubadala Citi DC Open presented by Amazon",
+      "shortName": "DC Open",
+      "date": "2026-07-27T04:00Z",
+      "endDate": "2026-08-03T03:59Z",
+      "venue": { "fullName": "Rock Creek Park Tennis Center", "address": { "city": "Washington", "state": "DC" } },
+      "groupings": [
+        {
+          "grouping": { "id": "1", "slug": "mens-singles", "displayName": "Men's Singles" },
+          "competitions": [
+            {
+              "id": "m1",
+              "status": { "type": { "state": "post" } },
+              "round": { "id": "4", "displayName": "Quarterfinal" },
+              "competitors": [
+                { "winner": true, "athlete": { "displayName": "Daniil Medvedev" } },
+                { "winner": false, "athlete": { "displayName": "Tommy Paul" } }
+              ]
+            },
+            {
+              "id": "m2",
+              "status": { "type": { "state": "in" } },
+              "round": { "id": "4", "displayName": "Quarterfinal" },
+              "competitors": [
+                { "winner": false, "athlete": { "displayName": "Ben Shelton" } },
+                { "winner": false, "athlete": { "displayName": "Frances Tiafoe" } }
+              ]
+            }
+          ]
+        },
+        {
+          "grouping": { "id": "2", "slug": "womens-singles", "displayName": "Women's Singles" },
+          "competitions": [
+            {
+              "id": "w1",
+              "status": { "type": { "state": "post" } },
+              "round": { "id": "5", "displayName": "Final" },
+              "competitors": [
+                { "winner": true, "athlete": { "displayName": "Should Never Appear" } },
+                { "winner": false, "athlete": { "displayName": "Wrong Tour" } }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

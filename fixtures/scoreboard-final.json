@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "id": "421-2026",
+      "name": "Mubadala Citi DC Open presented by Amazon",
+      "shortName": "DC Open",
+      "date": "2026-07-27T04:00Z",
+      "endDate": "2026-08-03T03:59Z",
+      "venue": { "fullName": "Rock Creek Park Tennis Center", "address": { "city": "Washington", "state": "DC" } },
+      "groupings": [
+        {
+          "grouping": { "id": "1", "slug": "mens-singles", "displayName": "Men's Singles" },
+          "competitions": [
+            {
+              "id": "m9",
+              "status": { "type": { "state": "post" } },
+              "round": { "id": "6", "displayName": "Final" },
+              "competitors": [
+                { "winner": false, "athlete": { "displayName": "Daniil Medvedev" } },
+                { "winner": true, "athlete": { "displayName": "Ben Shelton" } }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

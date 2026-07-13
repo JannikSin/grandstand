@@ -1,0 +1,1342 @@
+{
+  "races": [
+    {
+      "circuit": "Albert Park Grand Prix Circuit",
+      "city": "Melbourne",
+      "country": "Australia",
+      "id": "r01-australian-grand-prix",
+      "lat": -37.8497,
+      "lon": 144.968,
+      "name": "Australian Grand Prix",
+      "raceTime": "2026-03-08T04:00:00Z",
+      "results": {
+        "podium": [
+          {
+            "driver": "George Russell",
+            "pos": 1,
+            "team": "Mercedes"
+          },
+          {
+            "driver": "Andrea Kimi Antonelli",
+            "pos": 2,
+            "team": "Mercedes"
+          },
+          {
+            "driver": "Charles Leclerc",
+            "pos": 3,
+            "team": "Ferrari"
+          }
+        ],
+        "watched": [
+          {
+            "driver": "George Russell",
+            "pos": 1,
+            "status": "Finished",
+            "team": "Mercedes"
+          },
+          {
+            "driver": "Andrea Kimi Antonelli",
+            "pos": 2,
+            "status": "Finished",
+            "team": "Mercedes"
+          },
+          {
+            "driver": "Charles Leclerc",
+            "pos": 3,
+            "status": "Finished",
+            "team": "Ferrari"
+          },
+          {
+            "driver": "Lewis Hamilton",
+            "pos": 4,
+            "status": "Finished",
+            "team": "Ferrari"
+          },
+          {
+            "driver": "Max Verstappen",
+            "pos": 6,
+            "status": "Finished",
+            "team": "Red Bull"
+          }
+        ]
+      },
+      "round": 1,
+      "sessions": [
+        {
+          "label": "Practice 1",
+          "time": "2026-03-06T01:30:00Z"
+        },
+        {
+          "label": "Practice 2",
+          "time": "2026-03-06T05:00:00Z"
+        },
+        {
+          "label": "Practice 3",
+          "time": "2026-03-07T01:30:00Z"
+        },
+        {
+          "label": "Qualifying",
+          "time": "2026-03-07T05:00:00Z"
+        },
+        {
+          "label": "Race",
+          "time": "2026-03-08T04:00:00Z"
+        }
+      ],
+      "sprint": false
+    },
+    {
+      "circuit": "Shanghai International Circuit",
+      "city": "Shanghai",
+      "country": "China",
+      "id": "r02-chinese-grand-prix",
+      "lat": 31.3389,
+      "lon": 121.22,
+      "name": "Chinese Grand Prix",
+      "raceTime": "2026-03-15T07:00:00Z",
+      "results": {
+        "podium": [
+          {
+            "driver": "Andrea Kimi Antonelli",
+            "pos": 1,
+            "team": "Mercedes"
+          },
+          {
+            "driver": "George Russell",
+            "pos": 2,
+            "team": "Mercedes"
+          },
+          {
+            "driver": "Lewis Hamilton",
+            "pos": 3,
+            "team": "Ferrari"
+          }
+        ],
+        "watched": [
+          {
+            "driver": "Andrea Kimi Antonelli",
+            "pos": 1,
+            "status": "Finished",
+            "team": "Mercedes"
+          },
+          {
+            "driver": "George Russell",
+            "pos": 2,
+            "status": "Finished",
+            "team": "Mercedes"
+          },
+          {
+            "driver": "Lewis Hamilton",
+            "pos": 3,
+            "status": "Finished",
+            "team": "Ferrari"
+          },
+          {
+            "driver": "Charles Leclerc",
+            "pos": 4,
+            "status": "Finished",
+            "team": "Ferrari"
+          },
+          {
+            "driver": "Max Verstappen",
+            "pos": 16,
+            "status": "Retired",
+            "team": "Red Bull"
+          }
+        ]
+      },
+      "round": 2,
+      "sessions": [
+        {
+          "label": "Practice 1",
+          "time": "2026-03-13T03:30:00Z"
+        },
+        {
+          "label": "Sprint Qualifying",
+          "time": "2026-03-13T07:30:00Z"
+        },
+        {
+          "label": "Sprint",
+          "time": "2026-03-14T03:00:00Z"
+        },
+        {
+          "label": "Qualifying",
+          "time": "2026-03-14T07:00:00Z"
+        },
+        {
+          "label": "Race",
+          "time": "2026-03-15T07:00:00Z"
+        }
+      ],
+      "sprint": true
+    },
+    {
+      "circuit": "Suzuka Circuit",
+      "city": "Suzuka",
+      "country": "Japan",
+      "id": "r03-japanese-grand-prix",
+      "lat": 34.8431,
+      "lon": 136.541,
+      "name": "Japanese Grand Prix",
+      "raceTime": "2026-03-29T05:00:00Z",
+      "results": {
+        "podium": [
+          {
+            "driver": "Andrea Kimi Antonelli",
+            "pos": 1,
+            "team": "Mercedes"
+          },
+          {
+            "driver": "Oscar Piastri",
+            "pos": 2,
+            "team": "McLaren"
+          },
+          {
+            "driver": "Charles Leclerc",
+            "pos": 3,
+            "team": "Ferrari"
+          }
+        ],
+        "watched": [
+          {
+            "driver": "Andrea Kimi Antonelli",
+            "pos": 1,
+            "status": "Finished",
+            "team": "Mercedes"
+          },
+          {
+            "driver": "Charles Leclerc",
+            "pos": 3,
+            "status": "Finished",
+            "team": "Ferrari"
+          },
+          {
+            "driver": "George Russell",
+            "pos": 4,
+            "status": "Finished",
+            "team": "Mercedes"
+          },
+          {
+            "driver": "Lewis Hamilton",
+            "pos": 6,
+            "status": "Finished",
+            "team": "Ferrari"
+          },
+          {
+            "driver": "Max Verstappen",
+            "pos": 8,
+            "status": "Finished",
+            "team": "Red Bull"
+          }
+        ]
+      },
+      "round": 3,
+      "sessions": [
+        {
+          "label": "Practice 1",
+          "time": "2026-03-27T02:30:00Z"
+        },
+        {
+          "label": "Practice 2",
+          "time": "2026-03-27T06:00:00Z"
+        },
+        {
+          "label": "Practice 3",
+          "time": "2026-03-28T02:30:00Z"
+        },
+        {
+          "label": "Qualifying",
+          "time": "2026-03-28T06:00:00Z"
+        },
+        {
+          "label": "Race",
+          "time": "2026-03-29T05:00:00Z"
+        }
+      ],
+      "sprint": false
+    },
+    {
+      "circuit": "Miami International Autodrome",
+      "city": "Miami",
+      "country": "USA",
+      "id": "r04-miami-grand-prix",
+      "lat": 25.9581,
+      "lon": -80.2389,
+      "name": "Miami Grand Prix",
+      "raceTime": "2026-05-03T20:00:00Z",
+      "results": {
+        "podium": [
+          {
+            "driver": "Andrea Kimi Antonelli",
+            "pos": 1,
+            "team": "Mercedes"
+          },
+          {
+            "driver": "Lando Norris",
+            "pos": 2,
+            "team": "McLaren"
+          },
+          {
+            "driver": "Oscar Piastri",
+            "pos": 3,
+            "team": "McLaren"
+          }
+        ],
+        "watched": [
+          {
+            "driver": "Andrea Kimi Antonelli",
+            "pos": 1,
+            "status": "Finished",
+            "team": "Mercedes"
+          },
+          {
+            "driver": "George Russell",
+            "pos": 4,
+            "status": "Finished",
+            "team": "Mercedes"
+          },
+          {
+            "driver": "Max Verstappen",
+            "pos": 5,
+            "status": "Finished",
+            "team": "Red Bull"
+          },
+          {
+            "driver": "Lewis Hamilton",
+            "pos": 6,
+            "status": "Finished",
+            "team": "Ferrari"
+          },
+          {
+            "driver": "Charles Leclerc",
+            "pos": 8,
+            "status": "Finished",
+            "team": "Ferrari"
+          }
+        ]
+      },
+      "round": 4,
+      "sessions": [
+        {
+          "label": "Practice 1",
+          "time": "2026-05-01T16:00:00Z"
+        },
+        {
+          "label": "Sprint Qualifying",
+          "time": "2026-05-01T20:30:00Z"
+        },
+        {
+          "label": "Sprint",
+          "time": "2026-05-02T16:00:00Z"
+        },
+        {
+          "label": "Qualifying",
+          "time": "2026-05-02T20:00:00Z"
+        },
+        {
+          "label": "Race",
+          "time": "2026-05-03T20:00:00Z"
+        }
+      ],
+      "sprint": true
+    },
+    {
+      "circuit": "Circuit Gilles Villeneuve",
+      "city": "Montreal",
+      "country": "Canada",
+      "id": "r05-canadian-grand-prix",
+      "lat": 45.5,
+      "lon": -73.5228,
+      "name": "Canadian Grand Prix",
+      "raceTime": "2026-05-24T20:00:00Z",
+      "results": {
+        "podium": [
+          {
+            "driver": "Andrea Kimi Antonelli",
+            "pos": 1,
+            "team": "Mercedes"
+          },
+          {
+            "driver": "Lewis Hamilton",
+            "pos": 2,
+            "team": "Ferrari"
+          },
+          {
+            "driver": "Max Verstappen",
+            "pos": 3,
+            "team": "Red Bull"
+          }
+        ],
+        "watched": [
+          {
+            "driver": "Andrea Kimi Antonelli",
+            "pos": 1,
+            "status": "Finished",
+            "team": "Mercedes"
+          },
+          {
+            "driver": "Lewis Hamilton",
+            "pos": 2,
+            "status": "Finished",
+            "team": "Ferrari"
+          },
+          {
+            "driver": "Max Verstappen",
+            "pos": 3,
+            "status": "Finished",
+            "team": "Red Bull"
+          },
+          {
+            "driver": "Charles Leclerc",
+            "pos": 4,
+            "status": "Finished",
+            "team": "Ferrari"
+          },
+          {
+            "driver": "George Russell",
+            "pos": 19,
+            "status": "Retired",
+            "team": "Mercedes"
+          }
+        ]
+      },
+      "round": 5,
+      "sessions": [
+        {
+          "label": "Practice 1",
+          "time": "2026-05-22T16:30:00Z"
+        },
+        {
+          "label": "Sprint Qualifying",
+          "time": "2026-05-22T20:30:00Z"
+        },
+        {
+          "label": "Sprint",
+          "time": "2026-05-23T16:00:00Z"
+        },
+        {
+          "label": "Qualifying",
+          "time": "2026-05-23T20:00:00Z"
+        },
+        {
+          "label": "Race",
+          "time": "2026-05-24T20:00:00Z"
+        }
+      ],
+      "sprint": true
+    },
+    {
+      "circuit": "Circuit de Monaco",
+      "city": "Monte Carlo",
+      "country": "Monaco",
+      "id": "r06-monaco-grand-prix",
+      "lat": 43.7347,
+      "lon": 7.42056,
+      "name": "Monaco Grand Prix",
+      "raceTime": "2026-06-07T13:00:00Z",
+      "results": {
+        "podium": [
+          {
+            "driver": "Andrea Kimi Antonelli",
+            "pos": 1,
+            "team": "Mercedes"
+          },
+          {
+            "driver": "Lewis Hamilton",
+            "pos": 2,
+            "team": "Ferrari"
+          },
+          {
+            "driver": "Pierre Gasly",
+            "pos": 3,
+            "team": "Alpine F1 Team"
+          }
+        ],
+        "watched": [
+          {
+            "driver": "Andrea Kimi Antonelli",
+            "pos": 1,
+            "status": "Finished",
+            "team": "Mercedes"
+          },
+          {
+            "driver": "Lewis Hamilton",
+            "pos": 2,
+            "status": "Finished",
+            "team": "Ferrari"
+          },
+          {
+            "driver": "George Russell",
+            "pos": 12,
+            "status": "Finished",
+            "team": "Mercedes"
+          },
+          {
+            "driver": "Charles Leclerc",
+            "pos": 17,
+            "status": "Retired",
+            "team": "Ferrari"
+          },
+          {
+            "driver": "Max Verstappen",
+            "pos": 22,
+            "status": "Retired",
+            "team": "Red Bull"
+          }
+        ]
+      },
+      "round": 6,
+      "sessions": [
+        {
+          "label": "Practice 1",
+          "time": "2026-06-05T11:30:00Z"
+        },
+        {
+          "label": "Practice 2",
+          "time": "2026-06-05T15:00:00Z"
+        },
+        {
+          "label": "Practice 3",
+          "time": "2026-06-06T10:30:00Z"
+        },
+        {
+          "label": "Qualifying",
+          "time": "2026-06-06T14:00:00Z"
+        },
+        {
+          "label": "Race",
+          "time": "2026-06-07T13:00:00Z"
+        }
+      ],
+      "sprint": false
+    },
+    {
+      "circuit": "Circuit de Barcelona-Catalunya",
+      "city": "Barcelona",
+      "country": "Spain",
+      "id": "r07-barcelona-grand-prix",
+      "lat": 41.57,
+      "lon": 2.26111,
+      "name": "Barcelona Grand Prix",
+      "raceTime": "2026-06-14T13:00:00Z",
+      "results": {
+        "podium": [
+          {
+            "driver": "Lewis Hamilton",
+            "pos": 1,
+            "team": "Ferrari"
+          },
+          {
+            "driver": "George Russell",
+            "pos": 2,
+            "team": "Mercedes"
+          },
+          {
+            "driver": "Lando Norris",
+            "pos": 3,
+            "team": "McLaren"
+          }
+        ],
+        "watched": [
+          {
+            "driver": "Lewis Hamilton",
+            "pos": 1,
+            "status": "Finished",
+            "team": "Ferrari"
+          },
+          {
+            "driver": "George Russell",
+            "pos": 2,
+            "status": "Finished",
+            "team": "Mercedes"
+          },
+          {
+            "driver": "Max Verstappen",
+            "pos": 4,
+            "status": "Finished",
+            "team": "Red Bull"
+          },
+          {
+            "driver": "Charles Leclerc",
+            "pos": 15,
+            "status": "Retired",
+            "team": "Ferrari"
+          },
+          {
+            "driver": "Andrea Kimi Antonelli",
+            "pos": 16,
+            "status": "Retired",
+            "team": "Mercedes"
+          }
+        ]
+      },
+      "round": 7,
+      "sessions": [
+        {
+          "label": "Practice 1",
+          "time": "2026-06-12T11:30:00Z"
+        },
+        {
+          "label": "Practice 2",
+          "time": "2026-06-12T15:00:00Z"
+        },
+        {
+          "label": "Practice 3",
+          "time": "2026-06-13T10:30:00Z"
+        },
+        {
+          "label": "Qualifying",
+          "time": "2026-06-13T14:00:00Z"
+        },
+        {
+          "label": "Race",
+          "time": "2026-06-14T13:00:00Z"
+        }
+      ],
+      "sprint": false
+    },
+    {
+      "circuit": "Red Bull Ring",
+      "city": "Spielberg",
+      "country": "Austria",
+      "id": "r08-austrian-grand-prix",
+      "lat": 47.2197,
+      "lon": 14.7647,
+      "name": "Austrian Grand Prix",
+      "raceTime": "2026-06-28T13:00:00Z",
+      "results": {
+        "podium": [
+          {
+            "driver": "George Russell",
+            "pos": 1,
+            "team": "Mercedes"
+          },
+          {
+            "driver": "Max Verstappen",
+            "pos": 2,
+            "team": "Red Bull"
+          },
+          {
+            "driver": "Andrea Kimi Antonelli",
+            "pos": 3,
+            "team": "Mercedes"
+          }
+        ],
+        "watched": [
+          {
+            "driver": "George Russell",
+            "pos": 1,
+            "status": "Finished",
+            "team": "Mercedes"
+          },
+          {
+            "driver": "Max Verstappen",
+            "pos": 2,
+            "status": "Finished",
+            "team": "Red Bull"
+          },
+          {
+            "driver": "Andrea Kimi Antonelli",
+            "pos": 3,
+            "status": "Finished",
+            "team": "Mercedes"
+          },
+          {
+            "driver": "Lewis Hamilton",
+            "pos": 5,
+            "status": "Finished",
+            "team": "Ferrari"
+          },
+          {
+            "driver": "Charles Leclerc",
+            "pos": 8,
+            "status": "Finished",
+            "team": "Ferrari"
+          }
+        ]
+      },
+      "round": 8,
+      "sessions": [
+        {
+          "label": "Practice 1",
+          "time": "2026-06-26T11:30:00Z"
+        },
+        {
+          "label": "Practice 2",
+          "time": "2026-06-26T15:00:00Z"
+        },
+        {
+          "label": "Practice 3",
+          "time": "2026-06-27T10:30:00Z"
+        },
+        {
+          "label": "Qualifying",
+          "time": "2026-06-27T14:00:00Z"
+        },
+        {
+          "label": "Race",
+          "time": "2026-06-28T13:00:00Z"
+        }
+      ],
+      "sprint": false
+    },
+    {
+      "circuit": "Silverstone Circuit",
+      "city": "Silverstone",
+      "country": "UK",
+      "id": "r09-british-grand-prix",
+      "lat": 52.0786,
+      "lon": -1.01694,
+      "name": "British Grand Prix",
+      "raceTime": "2026-07-05T14:00:00Z",
+      "results": {
+        "podium": [
+          {
+            "driver": "Charles Leclerc",
+            "pos": 1,
+            "team": "Ferrari"
+          },
+          {
+            "driver": "George Russell",
+            "pos": 2,
+            "team": "Mercedes"
+          },
+          {
+            "driver": "Lewis Hamilton",
+            "pos": 3,
+            "team": "Ferrari"
+          }
+        ],
+        "watched": [
+          {
+            "driver": "Charles Leclerc",
+            "pos": 1,
+            "status": "Finished",
+            "team": "Ferrari"
+          },
+          {
+            "driver": "George Russell",
+            "pos": 2,
+            "status": "Finished",
+            "team": "Mercedes"
+          },
+          {
+            "driver": "Lewis Hamilton",
+            "pos": 3,
+            "status": "Finished",
+            "team": "Ferrari"
+          },
+          {
+            "driver": "Andrea Kimi Antonelli",
+            "pos": 15,
+            "status": "Finished",
+            "team": "Mercedes"
+          },
+          {
+            "driver": "Max Verstappen",
+            "pos": 20,
+            "status": "Retired",
+            "team": "Red Bull"
+          }
+        ]
+      },
+      "round": 9,
+      "sessions": [
+        {
+          "label": "Practice 1",
+          "time": "2026-07-03T11:30:00Z"
+        },
+        {
+          "label": "Sprint Qualifying",
+          "time": "2026-07-03T15:30:00Z"
+        },
+        {
+          "label": "Sprint",
+          "time": "2026-07-04T11:00:00Z"
+        },
+        {
+          "label": "Qualifying",
+          "time": "2026-07-04T15:00:00Z"
+        },
+        {
+          "label": "Race",
+          "time": "2026-07-05T14:00:00Z"
+        }
+      ],
+      "sprint": true
+    },
+    {
+      "circuit": "Circuit de Spa-Francorchamps",
+      "city": "Spa",
+      "country": "Belgium",
+      "id": "r10-belgian-grand-prix",
+      "lat": 50.4372,
+      "lon": 5.97139,
+      "name": "Belgian Grand Prix",
+      "raceTime": "2026-07-19T13:00:00Z",
+      "results": null,
+      "round": 10,
+      "sessions": [
+        {
+          "label": "Practice 1",
+          "time": "2026-07-17T11:30:00Z"
+        },
+        {
+          "label": "Practice 2",
+          "time": "2026-07-17T15:00:00Z"
+        },
+        {
+          "label": "Practice 3",
+          "time": "2026-07-18T10:30:00Z"
+        },
+        {
+          "label": "Qualifying",
+          "time": "2026-07-18T14:00:00Z"
+        },
+        {
+          "label": "Race",
+          "time": "2026-07-19T13:00:00Z"
+        }
+      ],
+      "sprint": false
+    },
+    {
+      "circuit": "Hungaroring",
+      "city": "Budapest",
+      "country": "Hungary",
+      "id": "r11-hungarian-grand-prix",
+      "lat": 47.5789,
+      "lon": 19.2486,
+      "name": "Hungarian Grand Prix",
+      "raceTime": "2026-07-26T13:00:00Z",
+      "results": null,
+      "round": 11,
+      "sessions": [
+        {
+          "label": "Practice 1",
+          "time": "2026-07-24T11:30:00Z"
+        },
+        {
+          "label": "Practice 2",
+          "time": "2026-07-24T15:00:00Z"
+        },
+        {
+          "label": "Practice 3",
+          "time": "2026-07-25T10:30:00Z"
+        },
+        {
+          "label": "Qualifying",
+          "time": "2026-07-25T14:00:00Z"
+        },
+        {
+          "label": "Race",
+          "time": "2026-07-26T13:00:00Z"
+        }
+      ],
+      "sprint": false
+    },
+    {
+      "circuit": "Circuit Park Zandvoort",
+      "city": "Zandvoort",
+      "country": "Netherlands",
+      "id": "r12-dutch-grand-prix",
+      "lat": 52.3888,
+      "lon": 4.54092,
+      "name": "Dutch Grand Prix",
+      "raceTime": "2026-08-23T13:00:00Z",
+      "results": null,
+      "round": 12,
+      "sessions": [
+        {
+          "label": "Practice 1",
+          "time": "2026-08-21T10:30:00Z"
+        },
+        {
+          "label": "Sprint Qualifying",
+          "time": "2026-08-21T14:30:00Z"
+        },
+        {
+          "label": "Sprint",
+          "time": "2026-08-22T10:00:00Z"
+        },
+        {
+          "label": "Qualifying",
+          "time": "2026-08-22T14:00:00Z"
+        },
+        {
+          "label": "Race",
+          "time": "2026-08-23T13:00:00Z"
+        }
+      ],
+      "sprint": true
+    },
+    {
+      "circuit": "Autodromo Nazionale di Monza",
+      "city": "Monza",
+      "country": "Italy",
+      "id": "r13-italian-grand-prix",
+      "lat": 45.6156,
+      "lon": 9.28111,
+      "name": "Italian Grand Prix",
+      "raceTime": "2026-09-06T13:00:00Z",
+      "results": null,
+      "round": 13,
+      "sessions": [
+        {
+          "label": "Practice 1",
+          "time": "2026-09-04T10:30:00Z"
+        },
+        {
+          "label": "Practice 2",
+          "time": "2026-09-04T14:00:00Z"
+        },
+        {
+          "label": "Practice 3",
+          "time": "2026-09-05T10:30:00Z"
+        },
+        {
+          "label": "Qualifying",
+          "time": "2026-09-05T14:00:00Z"
+        },
+        {
+          "label": "Race",
+          "time": "2026-09-06T13:00:00Z"
+        }
+      ],
+      "sprint": false
+    },
+    {
+      "circuit": "Madring",
+      "city": "Madrid",
+      "country": "Spain",
+      "id": "r14-spanish-grand-prix",
+      "lat": 40.46528,
+      "lon": -3.61528,
+      "name": "Spanish Grand Prix",
+      "raceTime": "2026-09-13T13:00:00Z",
+      "results": null,
+      "round": 14,
+      "sessions": [
+        {
+          "label": "Practice 1",
+          "time": "2026-09-11T11:30:00Z"
+        },
+        {
+          "label": "Practice 2",
+          "time": "2026-09-11T15:00:00Z"
+        },
+        {
+          "label": "Practice 3",
+          "time": "2026-09-12T10:30:00Z"
+        },
+        {
+          "label": "Qualifying",
+          "time": "2026-09-12T14:00:00Z"
+        },
+        {
+          "label": "Race",
+          "time": "2026-09-13T13:00:00Z"
+        }
+      ],
+      "sprint": false
+    },
+    {
+      "circuit": "Baku City Circuit",
+      "city": "Baku",
+      "country": "Azerbaijan",
+      "id": "r15-azerbaijan-grand-prix",
+      "lat": 40.3725,
+      "lon": 49.8533,
+      "name": "Azerbaijan Grand Prix",
+      "raceTime": "2026-09-26T11:00:00Z",
+      "results": null,
+      "round": 15,
+      "sessions": [
+        {
+          "label": "Practice 1",
+          "time": "2026-09-24T08:30:00Z"
+        },
+        {
+          "label": "Practice 2",
+          "time": "2026-09-24T12:00:00Z"
+        },
+        {
+          "label": "Practice 3",
+          "time": "2026-09-25T08:30:00Z"
+        },
+        {
+          "label": "Qualifying",
+          "time": "2026-09-25T12:00:00Z"
+        },
+        {
+          "label": "Race",
+          "time": "2026-09-26T11:00:00Z"
+        }
+      ],
+      "sprint": false
+    },
+    {
+      "circuit": "Marina Bay Street Circuit",
+      "city": "Marina Bay",
+      "country": "Singapore",
+      "id": "r16-singapore-grand-prix",
+      "lat": 1.2914,
+      "lon": 103.864,
+      "name": "Singapore Grand Prix",
+      "raceTime": "2026-10-11T12:00:00Z",
+      "results": null,
+      "round": 16,
+      "sessions": [
+        {
+          "label": "Practice 1",
+          "time": "2026-10-09T08:30:00Z"
+        },
+        {
+          "label": "Sprint Qualifying",
+          "time": "2026-10-09T12:30:00Z"
+        },
+        {
+          "label": "Sprint",
+          "time": "2026-10-10T09:00:00Z"
+        },
+        {
+          "label": "Qualifying",
+          "time": "2026-10-10T13:00:00Z"
+        },
+        {
+          "label": "Race",
+          "time": "2026-10-11T12:00:00Z"
+        }
+      ],
+      "sprint": true
+    },
+    {
+      "circuit": "Circuit of the Americas",
+      "city": "Austin",
+      "country": "USA",
+      "id": "r17-united-states-grand-prix",
+      "lat": 30.1328,
+      "lon": -97.6411,
+      "name": "United States Grand Prix",
+      "raceTime": "2026-10-25T20:00:00Z",
+      "results": null,
+      "round": 17,
+      "sessions": [
+        {
+          "label": "Practice 1",
+          "time": "2026-10-23T17:30:00Z"
+        },
+        {
+          "label": "Practice 2",
+          "time": "2026-10-23T21:00:00Z"
+        },
+        {
+          "label": "Practice 3",
+          "time": "2026-10-24T17:30:00Z"
+        },
+        {
+          "label": "Qualifying",
+          "time": "2026-10-24T21:00:00Z"
+        },
+        {
+          "label": "Race",
+          "time": "2026-10-25T20:00:00Z"
+        }
+      ],
+      "sprint": false
+    },
+    {
+      "circuit": "Autódromo Hermanos Rodríguez",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "id": "r18-mexico-city-grand-prix",
+      "lat": 19.4042,
+      "lon": -99.0907,
+      "name": "Mexico City Grand Prix",
+      "raceTime": "2026-11-01T20:00:00Z",
+      "results": null,
+      "round": 18,
+      "sessions": [
+        {
+          "label": "Practice 1",
+          "time": "2026-10-30T18:30:00Z"
+        },
+        {
+          "label": "Practice 2",
+          "time": "2026-10-30T22:00:00Z"
+        },
+        {
+          "label": "Practice 3",
+          "time": "2026-10-31T17:30:00Z"
+        },
+        {
+          "label": "Qualifying",
+          "time": "2026-10-31T21:00:00Z"
+        },
+        {
+          "label": "Race",
+          "time": "2026-11-01T20:00:00Z"
+        }
+      ],
+      "sprint": false
+    },
+    {
+      "circuit": "Autódromo José Carlos Pace",
+      "city": "São Paulo",
+      "country": "Brazil",
+      "id": "r19-brazilian-grand-prix",
+      "lat": -23.7036,
+      "lon": -46.6997,
+      "name": "Brazilian Grand Prix",
+      "raceTime": "2026-11-08T17:00:00Z",
+      "results": null,
+      "round": 19,
+      "sessions": [
+        {
+          "label": "Practice 1",
+          "time": "2026-11-06T15:30:00Z"
+        },
+        {
+          "label": "Practice 2",
+          "time": "2026-11-06T19:00:00Z"
+        },
+        {
+          "label": "Practice 3",
+          "time": "2026-11-07T14:30:00Z"
+        },
+        {
+          "label": "Qualifying",
+          "time": "2026-11-07T18:00:00Z"
+        },
+        {
+          "label": "Race",
+          "time": "2026-11-08T17:00:00Z"
+        }
+      ],
+      "sprint": false
+    },
+    {
+      "circuit": "Las Vegas Strip Street Circuit",
+      "city": "Las Vegas",
+      "country": "USA",
+      "id": "r20-las-vegas-grand-prix",
+      "lat": 36.1147,
+      "lon": -115.173,
+      "name": "Las Vegas Grand Prix",
+      "raceTime": "2026-11-22T04:00:00Z",
+      "results": null,
+      "round": 20,
+      "sessions": [
+        {
+          "label": "Practice 1",
+          "time": "2026-11-20T00:30:00Z"
+        },
+        {
+          "label": "Practice 2",
+          "time": "2026-11-20T04:00:00Z"
+        },
+        {
+          "label": "Practice 3",
+          "time": "2026-11-21T00:30:00Z"
+        },
+        {
+          "label": "Qualifying",
+          "time": "2026-11-21T04:00:00Z"
+        },
+        {
+          "label": "Race",
+          "time": "2026-11-22T04:00:00Z"
+        }
+      ],
+      "sprint": false
+    },
+    {
+      "circuit": "Losail International Circuit",
+      "city": "Lusail",
+      "country": "Qatar",
+      "id": "r21-qatar-grand-prix",
+      "lat": 25.49,
+      "lon": 51.4542,
+      "name": "Qatar Grand Prix",
+      "raceTime": "2026-11-29T16:00:00Z",
+      "results": null,
+      "round": 21,
+      "sessions": [
+        {
+          "label": "Practice 1",
+          "time": "2026-11-27T13:30:00Z"
+        },
+        {
+          "label": "Practice 2",
+          "time": "2026-11-27T17:00:00Z"
+        },
+        {
+          "label": "Practice 3",
+          "time": "2026-11-28T14:30:00Z"
+        },
+        {
+          "label": "Qualifying",
+          "time": "2026-11-28T18:00:00Z"
+        },
+        {
+          "label": "Race",
+          "time": "2026-11-29T16:00:00Z"
+        }
+      ],
+      "sprint": false
+    },
+    {
+      "circuit": "Yas Marina Circuit",
+      "city": "Abu Dhabi",
+      "country": "UAE",
+      "id": "r22-abu-dhabi-grand-prix",
+      "lat": 24.4672,
+      "lon": 54.6031,
+      "name": "Abu Dhabi Grand Prix",
+      "raceTime": "2026-12-06T13:00:00Z",
+      "results": null,
+      "round": 22,
+      "sessions": [
+        {
+          "label": "Practice 1",
+          "time": "2026-12-04T09:30:00Z"
+        },
+        {
+          "label": "Practice 2",
+          "time": "2026-12-04T13:00:00Z"
+        },
+        {
+          "label": "Practice 3",
+          "time": "2026-12-05T10:30:00Z"
+        },
+        {
+          "label": "Qualifying",
+          "time": "2026-12-05T14:00:00Z"
+        },
+        {
+          "label": "Race",
+          "time": "2026-12-06T13:00:00Z"
+        }
+      ],
+      "sprint": false
+    }
+  ],
+  "season": 2026,
+  "standings": {
+    "constructors": [
+      {
+        "points": 333,
+        "pos": 1,
+        "team": "Mercedes"
+      },
+      {
+        "points": 255,
+        "pos": 2,
+        "team": "Ferrari"
+      },
+      {
+        "points": 179,
+        "pos": 3,
+        "team": "McLaren"
+      },
+      {
+        "points": 128,
+        "pos": 4,
+        "team": "Red Bull"
+      },
+      {
+        "points": 60,
+        "pos": 5,
+        "team": "Alpine F1 Team"
+      },
+      {
+        "points": 59,
+        "pos": 6,
+        "team": "RB F1 Team"
+      },
+      {
+        "points": 21,
+        "pos": 7,
+        "team": "Haas F1 Team"
+      },
+      {
+        "points": 11,
+        "pos": 8,
+        "team": "Williams"
+      },
+      {
+        "points": 6,
+        "pos": 9,
+        "team": "Audi"
+      },
+      {
+        "points": 1,
+        "pos": 10,
+        "team": "Aston Martin"
+      }
+    ],
+    "drivers": [
+      {
+        "driver": "Andrea Kimi Antonelli",
+        "points": 179,
+        "pos": 1,
+        "team": "Mercedes"
+      },
+      {
+        "driver": "George Russell",
+        "points": 154,
+        "pos": 2,
+        "team": "Mercedes"
+      },
+      {
+        "driver": "Lewis Hamilton",
+        "points": 147,
+        "pos": 3,
+        "team": "Ferrari"
+      },
+      {
+        "driver": "Charles Leclerc",
+        "points": 108,
+        "pos": 4,
+        "team": "Ferrari"
+      },
+      {
+        "driver": "Lando Norris",
+        "points": 97,
+        "pos": 5,
+        "team": "McLaren"
+      },
+      {
+        "driver": "Oscar Piastri",
+        "points": 82,
+        "pos": 6,
+        "team": "McLaren"
+      },
+      {
+        "driver": "Max Verstappen",
+        "points": 76,
+        "pos": 7,
+        "team": "Red Bull"
+      },
+      {
+        "driver": "Isack Hadjar",
+        "points": 52,
+        "pos": 8,
+        "team": "Red Bull"
+      },
+      {
+        "driver": "Pierre Gasly",
+        "points": 42,
+        "pos": 9,
+        "team": "Alpine F1 Team"
+      },
+      {
+        "driver": "Liam Lawson",
+        "points": 39,
+        "pos": 10,
+        "team": "RB F1 Team"
+      }
+    ]
+  },
+  "updated": "2026-07-13"
+}
