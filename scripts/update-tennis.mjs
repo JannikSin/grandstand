@@ -13,11 +13,16 @@ await runSource("tennis", async () => {
   const config = loadData("config.json");
   let season = loadData("tennis.json");
 
+  // 4-day lookback: a final lives in exactly one day's scoreboard bucket, and
+  // a missed cron run must not lose a champion forever. The merge is
+  // idempotent, so replayed days never double-write.
+  const DAYS_BACK = 4;
   const today = new Date();
-  const yesterday = new Date(today.getTime() - 86400000);
   let changed = false;
 
-  for (const day of [yesterday, today]) {
+  const days = [];
+  for (let i = DAYS_BACK; i >= 0; i--) days.push(new Date(today.getTime() - i * 86400000));
+  for (const day of days) {
     const payload = await fetchJson(`${URL}?dates=${yyyymmdd(day)}`);
     if (!Array.isArray(payload?.events)) throw new Error("scoreboard payload failed shape check");
     const result = mergeScoreboard(season, payload, config.tennis.favorites);

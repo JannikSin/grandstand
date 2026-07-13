@@ -31,8 +31,8 @@ export function PurdueRow({ game, sport, isNew }) {
           ${r
             ? html`<span class=${r.win ? "won" : "lost"}>${r.win ? "W" : "L"} ${r.purdueScore}-${r.oppScore}</span>`
             : html`<span class="mono" style=${`color:${game.interest.score >= 70 ? "var(--purdue)" : "var(--muted)"}`}
-                >${game.interest.score}</span
-              >`}
+                  >${game.interest.score}</span
+                ><span class="lbl">interest</span>`}
         </span>
       </button>
       ${open &&

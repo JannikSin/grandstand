@@ -16,12 +16,16 @@ export async function loadAll() {
 
 const VISIT_KEY = "grandstand.lastVisit";
 
-/** Previous visit time; stamps now on call. Anything after it is "new". */
+/** Previous visit time; stamps now on call. Anything after it is "new".
+ *  A re-open within an hour keeps the old stamp so the "while you were away"
+ *  list survives a quick double-check. */
 export function takeLastVisit() {
   let prev = null;
   try {
     prev = localStorage.getItem(VISIT_KEY);
-    localStorage.setItem(VISIT_KEY, new Date().toISOString());
+    if (!prev || Date.now() - new Date(prev).getTime() > 3600000) {
+      localStorage.setItem(VISIT_KEY, new Date().toISOString());
+    }
   } catch {
     /* private mode */
   }

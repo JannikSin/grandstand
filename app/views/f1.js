@@ -32,7 +32,9 @@ export function F1Row({ race, isNew }) {
         <span class="end">
           ${done
             ? html`<span class="won">🏁 ${podium[0]?.driver?.split(" ").at(-1) || ""}</span>`
-            : html`<span class="mono" style="color:var(--muted)">${race.getaway ? race.getaway.score : "—"}</span>`}
+            : html`<span class="mono" style="color:var(--muted)"
+                  >${!race.getaway ? "—" : race.getaway.km > 450 ? "far" : race.getaway.score}</span
+                ><span class="lbl">getaway</span>`}
         </span>
       </button>
       ${open &&

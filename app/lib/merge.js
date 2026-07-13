@@ -40,15 +40,22 @@ export function matchEvent(seasonEvents, sb) {
   const sbStart = sb.date.slice(0, 10);
   const sbEnd = (sb.endDate || sb.date).slice(0, 10);
   const sbTokens = tokens(`${sb.name} ${sb.shortName || ""} ${sb.venue?.fullName || ""} ${sb.venue?.address?.city || ""}`);
-  return (
-    seasonEvents.find((e) => {
-      if (!overlapDays(e.start, e.end, sbStart, sbEnd)) return false;
-      const evTokens = tokens(`${e.name} ${e.city} ${e.venue}`);
-      let hits = 0;
-      for (const t of evTokens) if (sbTokens.has(t)) hits++;
-      return hits >= 1;
-    }) || null
-  );
+  // Best token overlap wins, not first hit: several tournaments run the same
+  // week, and a single incidental shared token must not bind the espnId to
+  // the wrong event (it would lock in).
+  let best = null;
+  let bestHits = 0;
+  for (const e of seasonEvents) {
+    if (!overlapDays(e.start, e.end, sbStart, sbEnd)) continue;
+    const evTokens = tokens(`${e.name} ${e.city} ${e.venue}`);
+    let hits = 0;
+    for (const t of evTokens) if (sbTokens.has(t)) hits++;
+    if (hits > bestHits) {
+      bestHits = hits;
+      best = e;
+    }
+  }
+  return bestHits >= 1 ? best : null;
 }
 
 /** Extract men's-singles matches from one scoreboard tournament. */

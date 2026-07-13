@@ -69,7 +69,8 @@ function Hero({ item, favorites }) {
     kind === "tennis" ? fmtDayRange(ev.start, ev.end) : fmtInstant(kind === "f1" ? ev.raceTime : ev.date);
   const days = kind === "tennis" ? daysUntil(ev.start) : Math.max(0, Math.ceil((item.when - Date.now()) / 86400000));
   const favs = kind === "tennis" ? favoriteSummary(ev, favorites) : null;
-  const score = kind === "purdue" ? ev.interest?.score : ev.getaway?.score;
+  const far = kind !== "purdue" && ev.getaway && ev.getaway.km > 450;
+  const score = kind === "purdue" ? ev.interest?.score : far ? "far" : ev.getaway?.score;
   const scoreLabel = kind === "purdue" ? "interest" : "getaway";
   const eyebrow = { tennis: "Next on tour", f1: "Next grand prix", purdue: "Next Purdue game" }[kind];
 
@@ -87,7 +88,7 @@ function Hero({ item, favorites }) {
             <span class="lbl">${item.underway ? "underway" : days === 1 ? "day out" : "days out"}</span>
           </div>
           <div>
-            <span class="big" style=${score != null && score >= 70 ? `color:${color}` : ""}>${score ?? "—"}</span>
+            <span class="big" style=${typeof score === "number" && score >= 70 ? `color:${color}` : ""}>${score ?? "—"}</span>
             <span class="lbl">${scoreLabel}</span>
           </div>
           <div>

@@ -20,6 +20,11 @@ const FAVS_EXPECTED_TIERS = new Set(["slam", "m1000", "finals"]);
 export function favoriteSummary(ev, favorites) {
   const seen = Object.keys(ev.favorites || {});
   if (seen.length) return { label: seen.map((n) => n.split(" ").at(-1)).join(", "), confirmed: true };
+  // Exhibitions never appear on the ESPN scoreboard; their lineups are
+  // hand-authored in the calendar and stay clearly labeled as expected.
+  if (!ev.champion && ev.expectedFavorites?.length) {
+    return { label: `${ev.expectedFavorites.map((n) => n.split(" ").at(-1)).join(", ")} expected`, confirmed: false };
+  }
   if (!ev.champion && FAVS_EXPECTED_TIERS.has(ev.tier)) return { label: "top players expected", confirmed: false };
   return null;
 }
@@ -62,7 +67,7 @@ export function TennisRow({ ev, favorites, isNew }) {
           <span class="name">${ev.name}</span>
           <span class="sub">
             <span class=${`chip tier-${ev.tier}`}>${TIER_LABEL[ev.tier] || ev.tier}</span>
-            ${favs && html`<span class="chip fav">${favs.confirmed ? favs.label : favs.label}</span>`}
+            ${favs && html`<span class=${`chip fav${favs.confirmed ? "" : " expected"}`}>${favs.label}</span>`}
             ${isNew && html`<span class="chip new">new</span>`}
             ${ev.city}${ev.country && ev.country !== "TBC" ? `, ${ev.country}` : ""}
           </span>
@@ -72,7 +77,9 @@ export function TennisRow({ ev, favorites, isNew }) {
             ? html`<span class="won">🏆 ${ev.champion}</span>`
             : done
               ? html`<span style="color:var(--muted)">done</span>`
-              : html`<span class="mono" style="color:var(--muted)">${ev.getaway ? ev.getaway.score : "—"}</span>`}
+              : html`<span class="mono" style="color:var(--muted)"
+                    >${!ev.getaway ? "—" : ev.getaway.km > 450 ? "far" : ev.getaway.score}</span
+                  ><span class="lbl">getaway</span>`}
         </span>
       </button>
       ${open &&

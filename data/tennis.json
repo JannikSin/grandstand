@@ -1070,7 +1070,10 @@
       "start": "2026-09-25",
       "surface": "hard",
       "tier": "exhibition",
-      "venue": "The O2 Arena"
+      "venue": "The O2 Arena",
+      "expectedFavorites": [
+        "Carlos Alcaraz"
+      ]
     },
     {
       "champion": null,
@@ -1146,7 +1149,12 @@
       "start": "2026-10-14",
       "surface": "hard",
       "tier": "exhibition",
-      "venue": "ANB Arena"
+      "venue": "ANB Arena",
+      "expectedFavorites": [
+        "Jannik Sinner",
+        "Carlos Alcaraz",
+        "Novak Djokovic"
+      ]
     },
     {
       "champion": null,

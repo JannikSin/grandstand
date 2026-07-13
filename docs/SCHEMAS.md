@@ -23,10 +23,30 @@ All files are written by `scripts/*.mjs` with sorted keys and 2-space indent so 
     champion, runnerUp,  // filled by the merge from the final, or seeded; FILL-ONLY
     favorites: {   // only players actually seen on court; never a predicted entry list
       "<name>": { results: [{ round, opponent, won }] }
-    }
+    },
+    expectedFavorites?: []  // hand-authored for exhibitions only (never on ESPN's
+                            // scoreboard); UI renders it as "expected", not fact
   }]
 }
 ```
+
+### Annual reseed (December)
+
+The one recurring manual chore: rebuild `events` for the new season from the
+official ATP calendar (atptour.com calendar PDF + Wikipedia season page).
+The fill-only merge makes a careless reseed dangerous: if a completed event
+carries last season's `champion` into the new year, the merge will never
+record the new champion (it only fills nulls) and nothing will error.
+
+Per event:
+- **Reset**: `champion: null`, `runnerUp: null`, `favorites: {}`.
+- **Carry over**: `id` (stable slug), `espnId` (year suffix is stripped on
+  match, so it stays valid), `lat`/`lon`, `venue`, `surface`, `indoor`,
+  unless the tournament moved.
+- **Re-enter**: `start`, `end`, `tier` (promotions/relegations happen),
+  `notes`, plus any new/dropped events and exhibitions (Six Kings Slam,
+  Laver Cup dates).
+- Bump top-level `season`, set `updated`, run `npm test`, eyeball the app.
 
 ## f1.json
 

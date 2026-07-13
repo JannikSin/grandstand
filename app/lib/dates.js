@@ -40,14 +40,8 @@ export function daysUntil(startDay, now = new Date()) {
   return Math.max(0, Math.ceil(ms / 86400000));
 }
 
-/** Sortable start instant for mixed feeds: instants sort by time, days by their noon-UTC. */
-export function sortKey(ev) {
-  return ev.startTime ? new Date(ev.startTime).getTime() : parseDay(ev.start).getTime();
-}
-
-/** True once the event is entirely in the past. */
+/** True once the event's last day is entirely in the past. */
 export function isPast(ev, now = new Date()) {
-  if (ev.startTime && !ev.end) return new Date(ev.startTime).getTime() + 4 * 3600000 < now.getTime();
   const end = ev.end || ev.start;
   return parseDay(end).getTime() + 12 * 3600000 < now.getTime();
 }

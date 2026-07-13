@@ -22,7 +22,7 @@ Zero-build static PWA (vendored preact + htm, no bundler), hosted on GitHub Page
 |---|---|---|
 | `data/f1.json` | [jolpica-f1](https://github.com/jolpica/jolpica-f1) (Ergast-compatible API) | daily cron |
 | `data/purdue.json` | public ESPN site API (facts only: schedules, scores, ranks) | daily cron |
-| `data/tennis.json` | curated season calendar + daily ESPN ATP scoreboard merge | daily cron; calendar reseeded each December (~1-2 h, the only manual chore) |
+| `data/tennis.json` | curated season calendar + daily ESPN ATP scoreboard merge | daily cron; calendar reseeded each December (~1-2 h, see `docs/SCHEMAS.md`) |
 | `data/airports.json` | hand-curated airport list with network flags | edited when routes change |
 | `data/config.json` | favorites, rivals, score weights | edit to taste |
 | `data/meta.json` | per-source freshness stamps | written by the cron |
