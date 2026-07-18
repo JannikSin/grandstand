@@ -1,6 +1,6 @@
 {
   "updated": "2026-07-13",
-  "note": "Curated list of United-served airports. hub / international / ordNonstop are hand-maintained estimates (calibration knobs), not ground truth. Always check real schedules before booking.",
+  "note": "Curated airport list. hub / international / ordNonstop are hand-maintained estimates (calibration knobs), not ground truth. Always check real schedules before booking.",
   "airports": [
     { "iata": "ORD", "name": "Chicago O'Hare International", "city": "Chicago", "lat": 41.98, "lon": -87.9, "hub": true, "international": false, "ordNonstop": true },
     { "iata": "DEN", "name": "Denver International", "city": "Denver", "lat": 39.86, "lon": -104.67, "hub": true, "international": false, "ordNonstop": true },
@@ -76,7 +76,7 @@
     { "iata": "SCQ", "name": "Santiago de Compostela", "city": "Santiago de Compostela", "lat": 42.9, "lon": -8.42, "hub": false, "international": true, "ordNonstop": false }
   ],
   "unserved": {
-    "note": "Cities with no United service at all. Events here get the floor score; nearest listed airport shown for reference.",
+    "note": "Cities not on the curated airport list. Events here get the floor score; nearest listed airport shown for reference.",
     "cities": ["Riyadh", "Jeddah", "Doha", "Bahrain", "Abu Dhabi", "Baku", "Budapest", "Vienna", "Stockholm", "Copenhagen"]
   }
 }
