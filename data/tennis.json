@@ -845,19 +845,29 @@
       "venue": "Roy Emerson Arena"
     },
     {
-      "champion": null,
+      "champion": "Daniel Merida",
       "city": "Umag",
       "country": "Croatia",
       "end": "2026-07-19",
       "espnId": "22",
-      "favorites": {},
+      "favorites": {
+        "Flavio Cobolli": {
+          "results": [
+            {
+              "opponent": "Roman Andres Burruchaga",
+              "round": "Round 2",
+              "won": false
+            }
+          ]
+        }
+      },
       "id": "umag",
       "indoor": false,
       "lat": 45.43,
       "lon": 13.52,
       "name": "Plava Laguna Croatia Open",
       "notes": "Adriatic seaside clay",
-      "runnerUp": null,
+      "runnerUp": "Damir Dzumhur",
       "start": "2026-07-13",
       "surface": "clay",
       "tier": "atp250",
@@ -868,7 +878,7 @@
       "city": "Kitzbuhel",
       "country": "Austria",
       "end": "2026-07-25",
-      "espnId": null,
+      "espnId": "304",
       "favorites": {},
       "id": "kitzbuhel",
       "indoor": false,
@@ -887,7 +897,7 @@
       "city": "Estoril",
       "country": "Portugal",
       "end": "2026-07-26",
-      "espnId": null,
+      "espnId": "400",
       "favorites": {},
       "id": "estoril",
       "indoor": false,
@@ -1059,6 +1069,9 @@
       "country": "United Kingdom",
       "end": "2026-09-27",
       "espnId": null,
+      "expectedFavorites": [
+        "Carlos Alcaraz"
+      ],
       "favorites": {},
       "id": "laver-cup",
       "indoor": true,
@@ -1070,10 +1083,7 @@
       "start": "2026-09-25",
       "surface": "hard",
       "tier": "exhibition",
-      "venue": "The O2 Arena",
-      "expectedFavorites": [
-        "Carlos Alcaraz"
-      ]
+      "venue": "The O2 Arena"
     },
     {
       "champion": null,
@@ -1138,6 +1148,11 @@
       "country": "Saudi Arabia",
       "end": "2026-10-17",
       "espnId": null,
+      "expectedFavorites": [
+        "Jannik Sinner",
+        "Carlos Alcaraz",
+        "Novak Djokovic"
+      ],
       "favorites": {},
       "id": "six-kings-slam",
       "indoor": true,
@@ -1149,12 +1164,7 @@
       "start": "2026-10-14",
       "surface": "hard",
       "tier": "exhibition",
-      "venue": "ANB Arena",
-      "expectedFavorites": [
-        "Jannik Sinner",
-        "Carlos Alcaraz",
-        "Novak Djokovic"
-      ]
+      "venue": "ANB Arena"
     },
     {
       "champion": null,
@@ -1348,5 +1358,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-07-13"
+  "updated": "2026-07-19"
 }
