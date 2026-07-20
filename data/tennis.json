@@ -807,7 +807,7 @@
       "venue": "All England Lawn Tennis Club"
     },
     {
-      "champion": null,
+      "champion": "Andrey Rublev",
       "city": "Bastad",
       "country": "Sweden",
       "end": "2026-07-19",
@@ -819,14 +819,14 @@
       "lon": 12.85,
       "name": "Nordea Open",
       "notes": "Swedish summer clay, Borg-era heritage event",
-      "runnerUp": null,
+      "runnerUp": "Luciano Darderi",
       "start": "2026-07-13",
       "surface": "clay",
       "tier": "atp250",
       "venue": "Bastad Tennis Stadium"
     },
     {
-      "champion": null,
+      "champion": "Stefanos Tsitsipas",
       "city": "Gstaad",
       "country": "Switzerland",
       "end": "2026-07-19",
@@ -838,7 +838,7 @@
       "lon": 7.29,
       "name": "EFG Swiss Open Gstaad",
       "notes": "Highest-altitude tour stop, 1,050 m in the Alps",
-      "runnerUp": null,
+      "runnerUp": "Raphael Collignon",
       "start": "2026-07-13",
       "surface": "clay",
       "tier": "atp250",
@@ -1358,5 +1358,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-07-19"
+  "updated": "2026-07-20"
 }
