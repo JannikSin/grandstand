@@ -916,7 +916,7 @@
       "city": "Washington, D.C.",
       "country": "United States",
       "end": "2026-08-02",
-      "espnId": null,
+      "espnId": "888",
       "favorites": {},
       "id": "washington",
       "indoor": false,
@@ -935,7 +935,7 @@
       "city": "Los Cabos",
       "country": "Mexico",
       "end": "2026-08-01",
-      "espnId": null,
+      "espnId": "424",
       "favorites": {},
       "id": "los-cabos",
       "indoor": false,
@@ -1358,5 +1358,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-07-20"
+  "updated": "2026-07-25"
 }
