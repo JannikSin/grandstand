@@ -874,7 +874,7 @@
       "venue": "Stella Maris Stadium"
     },
     {
-      "champion": null,
+      "champion": "Quentin Halys",
       "city": "Kitzbuhel",
       "country": "Austria",
       "end": "2026-07-25",
@@ -886,7 +886,7 @@
       "lon": 12.39,
       "name": "Generali Open",
       "notes": "Alpine clay in the famous ski town, Saturday final",
-      "runnerUp": null,
+      "runnerUp": "Alexander Bublik",
       "start": "2026-07-20",
       "surface": "clay",
       "tier": "atp250",
@@ -1358,5 +1358,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-07-25"
+  "updated": "2026-07-26"
 }
