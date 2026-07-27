@@ -2,7 +2,7 @@
 //   vendor/ + icons/  -> cache-first (immutable, versioned by CACHE bump)
 //   everything else (shell, app/, data/) -> network-first, fallback to cache
 // data/*.json is never precached, so a bad file self-heals on next good fetch.
-const CACHE = "grandstand-v1";
+const CACHE = "grandstand-v2";
 
 const PRECACHE = [
   "./",
@@ -24,7 +24,7 @@ self.addEventListener("activate", (e) => {
   e.waitUntil(
     caches
       .keys()
-      .then((keys) => Promise.all(keys.filter((k) => k !== CACHE).map((k) => caches.delete(k))))
+      .then((keys) => Promise.all(keys.filter((k) => k.startsWith("grandstand-") && k !== CACHE).map((k) => caches.delete(k))))
       .then(() => self.clients.claim()),
   );
 });
