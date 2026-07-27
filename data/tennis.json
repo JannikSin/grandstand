@@ -893,7 +893,7 @@
       "venue": "Kitzbuheler Tennis Club"
     },
     {
-      "champion": null,
+      "champion": "Luca Van Assche",
       "city": "Estoril",
       "country": "Portugal",
       "end": "2026-07-26",
@@ -905,7 +905,7 @@
       "lon": -9.4,
       "name": "Millennium Estoril Open",
       "notes": "Portugal's tour stop, moved to a July slot on the 2026 calendar",
-      "runnerUp": null,
+      "runnerUp": "Alexander Blockx",
       "start": "2026-07-20",
       "surface": "clay",
       "tier": "atp250",
@@ -1358,5 +1358,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-07-26"
+  "updated": "2026-07-27"
 }
