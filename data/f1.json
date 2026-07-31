@@ -1076,16 +1076,51 @@
       "sprint": false
     },
     {
+      "circuit": "Sepang International Circuit",
+      "city": "Kuala Lumpur",
+      "country": "Malaysia",
+      "id": "r16-bahrain-grand-prix-in-malaysia",
+      "lat": 2.76083,
+      "lon": 101.738,
+      "name": "Bahrain Grand Prix in Malaysia",
+      "raceTime": "2026-10-04T07:00:00Z",
+      "results": null,
+      "round": 16,
+      "sessions": [
+        {
+          "label": "Practice 1",
+          "time": "2026-10-02T02:00:00Z"
+        },
+        {
+          "label": "Practice 2",
+          "time": "2026-10-02T06:00:00Z"
+        },
+        {
+          "label": "Practice 3",
+          "time": "2026-10-03T06:00:00Z"
+        },
+        {
+          "label": "Qualifying",
+          "time": "2026-10-03T09:00:00Z"
+        },
+        {
+          "label": "Race",
+          "time": "2026-10-04T07:00:00Z"
+        }
+      ],
+      "sprint": false
+    },
+    {
       "circuit": "Marina Bay Street Circuit",
       "city": "Marina Bay",
       "country": "Singapore",
-      "id": "r16-singapore-grand-prix",
+      "id": "r17-singapore-grand-prix",
       "lat": 1.2914,
       "lon": 103.864,
       "name": "Singapore Grand Prix",
       "raceTime": "2026-10-11T12:00:00Z",
       "results": null,
-      "round": 16,
+      "round": 17,
       "sessions": [
         {
           "label": "Practice 1",
@@ -1114,13 +1149,13 @@
       "circuit": "Circuit of the Americas",
       "city": "Austin",
       "country": "USA",
-      "id": "r17-united-states-grand-prix",
+      "id": "r18-united-states-grand-prix",
       "lat": 30.1328,
       "lon": -97.6411,
       "name": "United States Grand Prix",
       "raceTime": "2026-10-25T20:00:00Z",
       "results": null,
-      "round": 17,
+      "round": 18,
       "sessions": [
         {
           "label": "Practice 1",
@@ -1149,13 +1184,13 @@
       "circuit": "Autódromo Hermanos Rodríguez",
       "city": "Mexico City",
       "country": "Mexico",
-      "id": "r18-mexico-city-grand-prix",
+      "id": "r19-mexico-city-grand-prix",
       "lat": 19.4042,
       "lon": -99.0907,
       "name": "Mexico City Grand Prix",
       "raceTime": "2026-11-01T20:00:00Z",
       "results": null,
-      "round": 18,
+      "round": 19,
       "sessions": [
         {
           "label": "Practice 1",
@@ -1184,13 +1219,13 @@
       "circuit": "Autódromo José Carlos Pace",
       "city": "São Paulo",
       "country": "Brazil",
-      "id": "r19-brazilian-grand-prix",
+      "id": "r20-brazilian-grand-prix",
       "lat": -23.7036,
       "lon": -46.6997,
       "name": "Brazilian Grand Prix",
       "raceTime": "2026-11-08T17:00:00Z",
       "results": null,
-      "round": 19,
+      "round": 20,
       "sessions": [
         {
           "label": "Practice 1",
@@ -1219,13 +1254,13 @@
       "circuit": "Las Vegas Strip Street Circuit",
       "city": "Las Vegas",
       "country": "USA",
-      "id": "r20-las-vegas-grand-prix",
+      "id": "r21-las-vegas-grand-prix",
       "lat": 36.1147,
       "lon": -115.173,
       "name": "Las Vegas Grand Prix",
       "raceTime": "2026-11-22T04:00:00Z",
       "results": null,
-      "round": 20,
+      "round": 21,
       "sessions": [
         {
           "label": "Practice 1",
@@ -1254,13 +1289,13 @@
       "circuit": "Losail International Circuit",
       "city": "Lusail",
       "country": "Qatar",
-      "id": "r21-qatar-grand-prix",
+      "id": "r22-qatar-grand-prix",
       "lat": 25.49,
       "lon": 51.4542,
       "name": "Qatar Grand Prix",
       "raceTime": "2026-11-29T16:00:00Z",
       "results": null,
-      "round": 21,
+      "round": 22,
       "sessions": [
         {
           "label": "Practice 1",
@@ -1289,13 +1324,13 @@
       "circuit": "Yas Marina Circuit",
       "city": "Abu Dhabi",
       "country": "UAE",
-      "id": "r22-abu-dhabi-grand-prix",
+      "id": "r23-abu-dhabi-grand-prix",
       "lat": 24.4672,
       "lon": 54.6031,
       "name": "Abu Dhabi Grand Prix",
       "raceTime": "2026-12-06T13:00:00Z",
       "results": null,
-      "round": 22,
+      "round": 23,
       "sessions": [
         {
           "label": "Practice 1",
@@ -1438,5 +1473,5 @@
       }
     ]
   },
-  "updated": "2026-07-30"
+  "updated": "2026-07-31"
 }
