@@ -954,7 +954,7 @@
       "city": "Montreal",
       "country": "Canada",
       "end": "2026-08-13",
-      "espnId": null,
+      "espnId": "421",
       "favorites": {},
       "id": "canadian-open",
       "indoor": false,
@@ -1358,5 +1358,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-07-27"
+  "updated": "2026-08-01"
 }
