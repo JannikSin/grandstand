@@ -931,7 +931,7 @@
       "venue": "Rock Creek Park Tennis Center"
     },
     {
-      "champion": null,
+      "champion": "Arthur Gea",
       "city": "Los Cabos",
       "country": "Mexico",
       "end": "2026-08-01",
@@ -943,7 +943,7 @@
       "lon": -109.91,
       "name": "Mifel Tennis Open",
       "notes": "Baja California resort event, Saturday final",
-      "runnerUp": null,
+      "runnerUp": "Denis Shapovalov",
       "start": "2026-07-27",
       "surface": "hard",
       "tier": "atp250",
@@ -1358,5 +1358,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-08-01"
+  "updated": "2026-08-02"
 }
