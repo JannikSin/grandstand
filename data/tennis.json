@@ -912,7 +912,7 @@
       "venue": "Clube de Tenis do Estoril"
     },
     {
-      "champion": null,
+      "champion": "Taylor Fritz",
       "city": "Washington, D.C.",
       "country": "United States",
       "end": "2026-08-02",
@@ -924,7 +924,7 @@
       "lon": -77.05,
       "name": "Mubadala Citi DC Open",
       "notes": "US Open series opener, notorious summer humidity",
-      "runnerUp": null,
+      "runnerUp": "Rafael Jodar",
       "start": "2026-07-27",
       "surface": "hard",
       "tier": "atp500",
@@ -1358,5 +1358,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-08-02"
+  "updated": "2026-08-04"
 }
