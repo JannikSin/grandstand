@@ -955,7 +955,17 @@
       "country": "Canada",
       "end": "2026-08-13",
       "espnId": "421",
-      "favorites": {},
+      "favorites": {
+        "Flavio Cobolli": {
+          "results": [
+            {
+              "opponent": "Yannick Hanfmann",
+              "round": "Round 2",
+              "won": false
+            }
+          ]
+        }
+      },
       "id": "canadian-open",
       "indoor": false,
       "lat": 45.53,
@@ -1358,5 +1368,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-08-04"
+  "updated": "2026-08-05"
 }
