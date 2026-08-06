@@ -956,6 +956,15 @@
       "end": "2026-08-13",
       "espnId": "421",
       "favorites": {
+        "Daniil Medvedev": {
+          "results": [
+            {
+              "opponent": "Botic Van De Zandschulp",
+              "round": "Round 2",
+              "won": false
+            }
+          ]
+        },
         "Flavio Cobolli": {
           "results": [
             {
@@ -1368,5 +1377,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-08-05"
+  "updated": "2026-08-06"
 }
