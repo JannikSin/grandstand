@@ -1,6 +1,35 @@
 {
   "basketball": {
-    "games": [],
+    "games": [
+      {
+        "city": "Fort Myers, FL",
+        "conferenceGame": false,
+        "date": "2026-11-26T05:00Z",
+        "home": false,
+        "id": "401906807",
+        "opponent": "Oklahoma Sooners",
+        "opponentRank": null,
+        "opponentShort": "OU",
+        "purdueRank": null,
+        "result": null,
+        "tv": "",
+        "venue": "Suncoast Credit Union Arena"
+      },
+      {
+        "city": "West Lafayette, IN",
+        "conferenceGame": false,
+        "date": "2026-12-11T05:00Z",
+        "home": true,
+        "id": "401906856",
+        "opponent": "Tennessee Volunteers",
+        "opponentRank": null,
+        "opponentShort": "TENN",
+        "purdueRank": null,
+        "result": null,
+        "tv": "",
+        "venue": "Mackey Arena"
+      }
+    ],
     "label": "2027",
     "season": 2027
   },
@@ -178,5 +207,5 @@
     "label": "2026",
     "season": 2026
   },
-  "updated": "2026-08-08"
+  "updated": "2026-08-09"
 }
