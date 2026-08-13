@@ -4,6 +4,20 @@
       {
         "city": "Fort Myers, FL",
         "conferenceGame": false,
+        "date": "2026-11-24T05:00Z",
+        "home": false,
+        "id": "401909505",
+        "opponent": "DePaul Blue Demons",
+        "opponentRank": null,
+        "opponentShort": "DEP",
+        "purdueRank": null,
+        "result": null,
+        "tv": "",
+        "venue": "Suncoast Credit Union Arena"
+      },
+      {
+        "city": "Fort Myers, FL",
+        "conferenceGame": false,
         "date": "2026-11-26T05:00Z",
         "home": false,
         "id": "401906807",
@@ -14,6 +28,20 @@
         "result": null,
         "tv": "",
         "venue": "Suncoast Credit Union Arena"
+      },
+      {
+        "city": "Ames, IA",
+        "conferenceGame": false,
+        "date": "2026-12-06T05:00Z",
+        "home": false,
+        "id": "401909777",
+        "opponent": "Iowa State Cyclones",
+        "opponentRank": null,
+        "opponentShort": "ISU",
+        "purdueRank": null,
+        "result": null,
+        "tv": "",
+        "venue": "Hilton Coliseum"
       },
       {
         "city": "West Lafayette, IN",
@@ -28,6 +56,20 @@
         "result": null,
         "tv": "",
         "venue": "Mackey Arena"
+      },
+      {
+        "city": "Indianapolis, IN",
+        "conferenceGame": false,
+        "date": "2026-12-19T05:00Z",
+        "home": true,
+        "id": "401909768",
+        "opponent": "Colorado Buffaloes",
+        "opponentRank": null,
+        "opponentShort": "COLO",
+        "purdueRank": null,
+        "result": null,
+        "tv": "",
+        "venue": "Gainbridge Fieldhouse"
       }
     ],
     "label": "2027",
@@ -207,5 +249,5 @@
     "label": "2026",
     "season": 2026
   },
-  "updated": "2026-08-12"
+  "updated": "2026-08-13"
 }
