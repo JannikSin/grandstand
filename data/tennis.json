@@ -950,7 +950,7 @@
       "venue": "Cabo Sports Complex"
     },
     {
-      "champion": null,
+      "champion": "Ben Shelton",
       "city": "Montreal",
       "country": "Canada",
       "end": "2026-08-13",
@@ -981,7 +981,7 @@
       "lon": -73.63,
       "name": "National Bank Open",
       "notes": "Men in Montreal this year, 12-day Masters with Thursday final",
-      "runnerUp": null,
+      "runnerUp": "Brandon Nakashima",
       "start": "2026-08-02",
       "surface": "hard",
       "tier": "m1000",
@@ -1377,5 +1377,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-08-11"
+  "updated": "2026-08-14"
 }
