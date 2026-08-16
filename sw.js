@@ -2,9 +2,10 @@
 //   vendor/ + icons/  -> cache-first (immutable, versioned by CACHE bump)
 //   everything else (shell, app/, data/) -> network-first, fallback to cache
 // data/*.json is never precached, so a bad file self-heals on next good fetch.
-const CACHE = "grandstand-v2";
+const CACHE = "grandstand-v3";
 
 const PRECACHE = [
+  "./suggest.js",
   "./",
   "./index.html",
   "./app/styles.css",
