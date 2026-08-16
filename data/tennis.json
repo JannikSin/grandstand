@@ -993,7 +993,26 @@
       "country": "United States",
       "end": "2026-08-23",
       "espnId": "718",
-      "favorites": {},
+      "favorites": {
+        "Flavio Cobolli": {
+          "results": [
+            {
+              "opponent": "Miomir Kecmanovic",
+              "round": "Round 2",
+              "won": true
+            }
+          ]
+        },
+        "Novak Djokovic": {
+          "results": [
+            {
+              "opponent": "Thiago Agustin Tirante",
+              "round": "Round 2",
+              "won": false
+            }
+          ]
+        }
+      },
       "id": "cincinnati",
       "indoor": false,
       "lat": 39.35,
@@ -1377,5 +1396,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-08-14"
+  "updated": "2026-08-16"
 }
