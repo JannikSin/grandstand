@@ -994,6 +994,15 @@
       "end": "2026-08-23",
       "espnId": "718",
       "favorites": {
+        "Daniil Medvedev": {
+          "results": [
+            {
+              "opponent": "Marco Trungelliti",
+              "round": "Round 2",
+              "won": true
+            }
+          ]
+        },
         "Flavio Cobolli": {
           "results": [
             {
@@ -1396,5 +1405,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-08-16"
+  "updated": "2026-08-17"
 }
