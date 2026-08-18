@@ -126,7 +126,7 @@
         "home": true,
         "id": "401858467",
         "opponent": "Notre Dame Fighting Irish",
-        "opponentRank": null,
+        "opponentRank": 4,
         "opponentShort": "ND",
         "purdueRank": null,
         "result": null,
@@ -168,7 +168,7 @@
         "home": true,
         "id": "401858493",
         "opponent": "Washington Huskies",
-        "opponentRank": null,
+        "opponentRank": 17,
         "opponentShort": "WASH",
         "purdueRank": null,
         "result": null,
@@ -182,7 +182,7 @@
         "home": false,
         "id": "401858506",
         "opponent": "Penn State Nittany Lions",
-        "opponentRank": null,
+        "opponentRank": 18,
         "opponentShort": "PSU",
         "purdueRank": null,
         "result": null,
@@ -210,7 +210,7 @@
         "home": false,
         "id": "401858519",
         "opponent": "Iowa Hawkeyes",
-        "opponentRank": null,
+        "opponentRank": 22,
         "opponentShort": "IOWA",
         "purdueRank": null,
         "result": null,
@@ -238,7 +238,7 @@
         "home": false,
         "id": "401858538",
         "opponent": "Indiana Hoosiers",
-        "opponentRank": null,
+        "opponentRank": 6,
         "opponentShort": "IU",
         "purdueRank": null,
         "result": null,
@@ -249,5 +249,5 @@
     "label": "2026",
     "season": 2026
   },
-  "updated": "2026-08-17"
+  "updated": "2026-08-18"
 }

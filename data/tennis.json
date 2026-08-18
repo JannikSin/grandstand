@@ -1009,6 +1009,11 @@
               "opponent": "Miomir Kecmanovic",
               "round": "Round 2",
               "won": true
+            },
+            {
+              "opponent": "Alexander Blockx",
+              "round": "Round 3",
+              "won": true
             }
           ]
         },
@@ -1405,5 +1410,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-08-17"
+  "updated": "2026-08-18"
 }
