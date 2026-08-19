@@ -1000,6 +1000,11 @@
               "opponent": "Marco Trungelliti",
               "round": "Round 2",
               "won": true
+            },
+            {
+              "opponent": "Brandon Nakashima",
+              "round": "Round 3",
+              "won": false
             }
           ]
         },
@@ -1410,5 +1415,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-08-18"
+  "updated": "2026-08-19"
 }
