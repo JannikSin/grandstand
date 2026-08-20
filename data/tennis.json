@@ -1019,6 +1019,11 @@
               "opponent": "Alexander Blockx",
               "round": "Round 3",
               "won": true
+            },
+            {
+              "opponent": "Rafael Jodar",
+              "round": "Round 4",
+              "won": true
             }
           ]
         },
@@ -1415,5 +1420,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-08-19"
+  "updated": "2026-08-20"
 }
