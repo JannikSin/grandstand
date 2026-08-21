@@ -1024,6 +1024,11 @@
               "opponent": "Rafael Jodar",
               "round": "Round 4",
               "won": true
+            },
+            {
+              "opponent": "Tommy Paul",
+              "round": "Quarterfinal",
+              "won": true
             }
           ]
         },
@@ -1420,5 +1425,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-08-20"
+  "updated": "2026-08-21"
 }
