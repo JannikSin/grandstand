@@ -1059,7 +1059,7 @@
       "city": "Winston-Salem",
       "country": "United States",
       "end": "2026-08-29",
-      "espnId": null,
+      "espnId": "363",
       "favorites": {},
       "id": "winston-salem",
       "indoor": false,
@@ -1425,5 +1425,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-08-21"
+  "updated": "2026-08-22"
 }
