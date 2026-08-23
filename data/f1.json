@@ -1360,22 +1360,22 @@
   "standings": {
     "constructors": [
       {
-        "points": 379,
+        "points": 392,
         "pos": 1,
         "team": "Mercedes"
       },
       {
-        "points": 307,
+        "points": 316,
         "pos": 2,
         "team": "Ferrari"
       },
       {
-        "points": 220,
+        "points": 230,
         "pos": 3,
         "team": "McLaren"
       },
       {
-        "points": 177,
+        "points": 180,
         "pos": 4,
         "team": "Red Bull"
       },
@@ -1385,7 +1385,7 @@
         "team": "RB F1 Team"
       },
       {
-        "points": 61,
+        "points": 62,
         "pos": 6,
         "team": "Alpine F1 Team"
       },
@@ -1413,43 +1413,43 @@
     "drivers": [
       {
         "driver": "Andrea Kimi Antonelli",
-        "points": 219,
+        "points": 224,
         "pos": 1,
         "team": "Mercedes"
       },
       {
         "driver": "Lewis Hamilton",
-        "points": 169,
+        "points": 171,
         "pos": 2,
         "team": "Ferrari"
       },
       {
         "driver": "George Russell",
-        "points": 160,
+        "points": 168,
         "pos": 3,
         "team": "Mercedes"
       },
       {
         "driver": "Charles Leclerc",
-        "points": 138,
+        "points": 145,
         "pos": 4,
         "team": "Ferrari"
       },
       {
         "driver": "Lando Norris",
-        "points": 128,
+        "points": 134,
         "pos": 5,
         "team": "McLaren"
       },
       {
         "driver": "Max Verstappen",
-        "points": 109,
+        "points": 112,
         "pos": 6,
         "team": "Red Bull"
       },
       {
         "driver": "Oscar Piastri",
-        "points": 92,
+        "points": 96,
         "pos": 7,
         "team": "McLaren"
       },
@@ -1460,18 +1460,18 @@
         "team": "Red Bull"
       },
       {
-        "driver": "Liam Lawson",
+        "driver": "Pierre Gasly",
         "points": 43,
         "pos": 9,
-        "team": "RB F1 Team"
+        "team": "Alpine F1 Team"
       },
       {
-        "driver": "Pierre Gasly",
-        "points": 42,
+        "driver": "Liam Lawson",
+        "points": 43,
         "pos": 10,
-        "team": "Alpine F1 Team"
+        "team": "RB F1 Team"
       }
     ]
   },
-  "updated": "2026-08-22"
+  "updated": "2026-08-23"
 }

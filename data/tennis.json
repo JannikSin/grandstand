@@ -1029,6 +1029,11 @@
               "opponent": "Tommy Paul",
               "round": "Quarterfinal",
               "won": true
+            },
+            {
+              "opponent": "Arthur Fils",
+              "round": "Semifinal",
+              "won": false
             }
           ]
         },
@@ -1425,5 +1430,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-08-22"
+  "updated": "2026-08-23"
 }
