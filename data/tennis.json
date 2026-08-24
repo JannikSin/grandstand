@@ -988,7 +988,7 @@
       "venue": "IGA Stadium"
     },
     {
-      "champion": null,
+      "champion": "Arthur Fils",
       "city": "Mason, Ohio",
       "country": "United States",
       "end": "2026-08-23",
@@ -1053,7 +1053,7 @@
       "lon": -84.31,
       "name": "Cincinnati Open",
       "notes": "Final Masters tune-up before the US Open",
-      "runnerUp": null,
+      "runnerUp": "Frances Tiafoe",
       "start": "2026-08-13",
       "surface": "hard",
       "tier": "m1000",
@@ -1430,5 +1430,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-08-23"
+  "updated": "2026-08-24"
 }

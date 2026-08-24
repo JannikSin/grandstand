@@ -944,7 +944,57 @@
       "lon": 4.54092,
       "name": "Dutch Grand Prix",
       "raceTime": "2026-08-23T13:00:00Z",
-      "results": null,
+      "results": {
+        "podium": [
+          {
+            "driver": "Lando Norris",
+            "pos": 1,
+            "team": "McLaren"
+          },
+          {
+            "driver": "Andrea Kimi Antonelli",
+            "pos": 2,
+            "team": "Mercedes"
+          },
+          {
+            "driver": "George Russell",
+            "pos": 3,
+            "team": "Mercedes"
+          }
+        ],
+        "watched": [
+          {
+            "driver": "Andrea Kimi Antonelli",
+            "pos": 2,
+            "status": "Finished",
+            "team": "Mercedes"
+          },
+          {
+            "driver": "George Russell",
+            "pos": 3,
+            "status": "Finished",
+            "team": "Mercedes"
+          },
+          {
+            "driver": "Lewis Hamilton",
+            "pos": 4,
+            "status": "Finished",
+            "team": "Ferrari"
+          },
+          {
+            "driver": "Charles Leclerc",
+            "pos": 5,
+            "status": "Finished",
+            "team": "Ferrari"
+          },
+          {
+            "driver": "Max Verstappen",
+            "pos": 22,
+            "status": "Retired",
+            "team": "Red Bull"
+          }
+        ]
+      },
       "round": 12,
       "sessions": [
         {
@@ -1360,22 +1410,22 @@
   "standings": {
     "constructors": [
       {
-        "points": 392,
+        "points": 425,
         "pos": 1,
         "team": "Mercedes"
       },
       {
-        "points": 316,
+        "points": 338,
         "pos": 2,
         "team": "Ferrari"
       },
       {
-        "points": 230,
+        "points": 263,
         "pos": 3,
         "team": "McLaren"
       },
       {
-        "points": 180,
+        "points": 186,
         "pos": 4,
         "team": "Red Bull"
       },
@@ -1385,7 +1435,7 @@
         "team": "RB F1 Team"
       },
       {
-        "points": 62,
+        "points": 63,
         "pos": 6,
         "team": "Alpine F1 Team"
       },
@@ -1395,7 +1445,7 @@
         "team": "Haas F1 Team"
       },
       {
-        "points": 12,
+        "points": 16,
         "pos": 8,
         "team": "Audi"
       },
@@ -1405,7 +1455,7 @@
         "team": "Williams"
       },
       {
-        "points": 1,
+        "points": 3,
         "pos": 10,
         "team": "Aston Martin"
       }
@@ -1413,33 +1463,33 @@
     "drivers": [
       {
         "driver": "Andrea Kimi Antonelli",
-        "points": 224,
+        "points": 242,
         "pos": 1,
         "team": "Mercedes"
       },
       {
-        "driver": "Lewis Hamilton",
-        "points": 171,
-        "pos": 2,
-        "team": "Ferrari"
-      },
-      {
         "driver": "George Russell",
-        "points": 168,
-        "pos": 3,
+        "points": 183,
+        "pos": 2,
         "team": "Mercedes"
       },
       {
-        "driver": "Charles Leclerc",
-        "points": 145,
-        "pos": 4,
+        "driver": "Lewis Hamilton",
+        "points": 183,
+        "pos": 3,
         "team": "Ferrari"
       },
       {
         "driver": "Lando Norris",
-        "points": 134,
-        "pos": 5,
+        "points": 159,
+        "pos": 4,
         "team": "McLaren"
+      },
+      {
+        "driver": "Charles Leclerc",
+        "points": 155,
+        "pos": 5,
+        "team": "Ferrari"
       },
       {
         "driver": "Max Verstappen",
@@ -1449,7 +1499,7 @@
       },
       {
         "driver": "Oscar Piastri",
-        "points": 96,
+        "points": 104,
         "pos": 7,
         "team": "McLaren"
       },
@@ -1460,18 +1510,18 @@
         "team": "Red Bull"
       },
       {
-        "driver": "Pierre Gasly",
-        "points": 43,
+        "driver": "Liam Lawson",
+        "points": 49,
         "pos": 9,
-        "team": "Alpine F1 Team"
+        "team": "RB F1 Team"
       },
       {
-        "driver": "Liam Lawson",
-        "points": 43,
+        "driver": "Pierre Gasly",
+        "points": 44,
         "pos": 10,
-        "team": "RB F1 Team"
+        "team": "Alpine F1 Team"
       }
     ]
   },
-  "updated": "2026-08-23"
+  "updated": "2026-08-24"
 }
