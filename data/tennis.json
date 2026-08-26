@@ -1065,7 +1065,17 @@
       "country": "United States",
       "end": "2026-08-29",
       "espnId": "363",
-      "favorites": {},
+      "favorites": {
+        "Daniil Medvedev": {
+          "results": [
+            {
+              "opponent": "Martin Damm",
+              "round": "Round 2",
+              "won": false
+            }
+          ]
+        }
+      },
       "id": "winston-salem",
       "indoor": false,
       "lat": 36.1,
@@ -1430,5 +1440,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-08-24"
+  "updated": "2026-08-26"
 }
