@@ -1060,7 +1060,7 @@
       "venue": "Lindner Family Tennis Center"
     },
     {
-      "champion": null,
+      "champion": "Ignacio Buse",
       "city": "Winston-Salem",
       "country": "United States",
       "end": "2026-08-29",
@@ -1082,7 +1082,7 @@
       "lon": -80.24,
       "name": "Winston-Salem Open",
       "notes": "Last stop before the US Open, 48-player draw",
-      "runnerUp": null,
+      "runnerUp": "Arthur Fery",
       "start": "2026-08-23",
       "surface": "hard",
       "tier": "atp250",
@@ -1440,5 +1440,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-08-26"
+  "updated": "2026-08-30"
 }
