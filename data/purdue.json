@@ -87,7 +87,11 @@
         "opponentRank": null,
         "opponentShort": "INST",
         "purdueRank": null,
-        "result": null,
+        "result": {
+          "oppScore": 19,
+          "purdueScore": 44,
+          "win": true
+        },
         "tv": "BTN",
         "venue": "Ross-Ade Stadium"
       },
@@ -249,5 +253,5 @@
     "label": "2026",
     "season": 2026
   },
-  "updated": "2026-09-04"
+  "updated": "2026-09-05"
 }
