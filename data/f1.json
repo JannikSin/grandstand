@@ -1029,7 +1029,57 @@
       "lon": 9.28111,
       "name": "Italian Grand Prix",
       "raceTime": "2026-09-06T13:00:00Z",
-      "results": null,
+      "results": {
+        "podium": [
+          {
+            "driver": "Andrea Kimi Antonelli",
+            "pos": 1,
+            "team": "Mercedes"
+          },
+          {
+            "driver": "George Russell",
+            "pos": 2,
+            "team": "Mercedes"
+          },
+          {
+            "driver": "Max Verstappen",
+            "pos": 3,
+            "team": "Red Bull"
+          }
+        ],
+        "watched": [
+          {
+            "driver": "Andrea Kimi Antonelli",
+            "pos": 1,
+            "status": "Finished",
+            "team": "Mercedes"
+          },
+          {
+            "driver": "George Russell",
+            "pos": 2,
+            "status": "Finished",
+            "team": "Mercedes"
+          },
+          {
+            "driver": "Max Verstappen",
+            "pos": 3,
+            "status": "Finished",
+            "team": "Red Bull"
+          },
+          {
+            "driver": "Lewis Hamilton",
+            "pos": 6,
+            "status": "Finished",
+            "team": "Ferrari"
+          },
+          {
+            "driver": "Charles Leclerc",
+            "pos": 22,
+            "status": "Retired",
+            "team": "Ferrari"
+          }
+        ]
+      },
       "round": 13,
       "sessions": [
         {
@@ -1410,32 +1460,32 @@
   "standings": {
     "constructors": [
       {
-        "points": 425,
+        "points": 468,
         "pos": 1,
         "team": "Mercedes"
       },
       {
-        "points": 338,
+        "points": 346,
         "pos": 2,
         "team": "Ferrari"
       },
       {
-        "points": 263,
+        "points": 287,
         "pos": 3,
         "team": "McLaren"
       },
       {
-        "points": 186,
+        "points": 204,
         "pos": 4,
         "team": "Red Bull"
       },
       {
-        "points": 66,
+        "points": 75,
         "pos": 5,
         "team": "RB F1 Team"
       },
       {
-        "points": 63,
+        "points": 62,
         "pos": 6,
         "team": "Alpine F1 Team"
       },
@@ -1463,25 +1513,25 @@
     "drivers": [
       {
         "driver": "Andrea Kimi Antonelli",
-        "points": 242,
+        "points": 267,
         "pos": 1,
         "team": "Mercedes"
       },
       {
         "driver": "George Russell",
-        "points": 183,
+        "points": 201,
         "pos": 2,
         "team": "Mercedes"
       },
       {
         "driver": "Lewis Hamilton",
-        "points": 183,
+        "points": 191,
         "pos": 3,
         "team": "Ferrari"
       },
       {
         "driver": "Lando Norris",
-        "points": 159,
+        "points": 171,
         "pos": 4,
         "team": "McLaren"
       },
@@ -1493,35 +1543,35 @@
       },
       {
         "driver": "Max Verstappen",
-        "points": 112,
+        "points": 127,
         "pos": 6,
         "team": "Red Bull"
       },
       {
         "driver": "Oscar Piastri",
-        "points": 104,
+        "points": 116,
         "pos": 7,
         "team": "McLaren"
       },
       {
         "driver": "Isack Hadjar",
-        "points": 68,
+        "points": 71,
         "pos": 8,
         "team": "Red Bull"
       },
       {
         "driver": "Liam Lawson",
-        "points": 49,
+        "points": 51,
         "pos": 9,
         "team": "RB F1 Team"
       },
       {
         "driver": "Pierre Gasly",
-        "points": 44,
+        "points": 41,
         "pos": 10,
         "team": "Alpine F1 Team"
       }
     ]
   },
-  "updated": "2026-09-06"
+  "updated": "2026-09-07"
 }
