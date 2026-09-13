@@ -105,7 +105,11 @@
         "opponentRank": null,
         "opponentShort": "WAKE",
         "purdueRank": null,
-        "result": null,
+        "result": {
+          "oppScore": 38,
+          "purdueScore": 36,
+          "win": false
+        },
         "tv": "FS1",
         "venue": "Ross-Ade Stadium"
       },
@@ -253,5 +257,5 @@
     "label": "2026",
     "season": 2026
   },
-  "updated": "2026-09-12"
+  "updated": "2026-09-13"
 }
