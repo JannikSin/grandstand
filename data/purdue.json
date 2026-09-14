@@ -2,6 +2,20 @@
   "basketball": {
     "games": [
       {
+        "city": "West Lafayette, IN",
+        "conferenceGame": false,
+        "date": "2026-11-17T05:00Z",
+        "home": true,
+        "id": "401920706",
+        "opponent": "Lipscomb Bisons",
+        "opponentRank": null,
+        "opponentShort": "LIP",
+        "purdueRank": null,
+        "result": null,
+        "tv": "",
+        "venue": "Mackey Arena"
+      },
+      {
         "city": "Fort Myers, FL",
         "conferenceGame": false,
         "date": "2026-11-24T05:00Z",
@@ -70,6 +84,20 @@
         "result": null,
         "tv": "",
         "venue": "Gainbridge Fieldhouse"
+      },
+      {
+        "city": "West Lafayette, IN",
+        "conferenceGame": false,
+        "date": "2026-12-21T05:00Z",
+        "home": true,
+        "id": "401920347",
+        "opponent": "California Baptist Lancers",
+        "opponentRank": null,
+        "opponentShort": "CBU",
+        "purdueRank": null,
+        "result": null,
+        "tv": "",
+        "venue": "Mackey Arena"
       }
     ],
     "label": "2027",
@@ -176,7 +204,7 @@
         "home": true,
         "id": "401858493",
         "opponent": "Washington Huskies",
-        "opponentRank": 19,
+        "opponentRank": null,
         "opponentShort": "WASH",
         "purdueRank": null,
         "result": null,
@@ -190,7 +218,7 @@
         "home": false,
         "id": "401858506",
         "opponent": "Penn State Nittany Lions",
-        "opponentRank": 16,
+        "opponentRank": 14,
         "opponentShort": "PSU",
         "purdueRank": null,
         "result": null,
@@ -218,7 +246,7 @@
         "home": false,
         "id": "401858519",
         "opponent": "Iowa Hawkeyes",
-        "opponentRank": 21,
+        "opponentRank": 18,
         "opponentShort": "IOWA",
         "purdueRank": null,
         "result": null,
@@ -246,7 +274,7 @@
         "home": false,
         "id": "401858538",
         "opponent": "Indiana Hoosiers",
-        "opponentRank": 5,
+        "opponentRank": 4,
         "opponentShort": "IU",
         "purdueRank": null,
         "result": null,
@@ -257,5 +285,5 @@
     "label": "2026",
     "season": 2026
   },
-  "updated": "2026-09-13"
+  "updated": "2026-09-14"
 }
