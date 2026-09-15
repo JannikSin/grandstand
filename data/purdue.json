@@ -158,7 +158,7 @@
       {
         "city": "West Lafayette, IN",
         "conferenceGame": false,
-        "date": "2026-09-26T04:00Z",
+        "date": "2026-09-26T18:00Z",
         "home": true,
         "id": "401858467",
         "opponent": "Notre Dame Fighting Irish",
@@ -166,7 +166,7 @@
         "opponentShort": "ND",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "Peacock",
         "venue": "Ross-Ade Stadium"
       },
       {
@@ -285,5 +285,5 @@
     "label": "2026",
     "season": 2026
   },
-  "updated": "2026-09-14"
+  "updated": "2026-09-15"
 }

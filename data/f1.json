@@ -1436,7 +1436,7 @@
       "sprint": false
     },
     {
-      "circuit": "Losail International Circuit",
+      "circuit": "Lusail International Circuit",
       "city": "Lusail",
       "country": "Qatar",
       "id": "r22-qatar-grand-prix",
@@ -1623,5 +1623,5 @@
       }
     ]
   },
-  "updated": "2026-09-14"
+  "updated": "2026-09-15"
 }
