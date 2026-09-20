@@ -431,7 +431,11 @@
         "opponentRank": null,
         "opponentShort": "UCLA",
         "purdueRank": null,
-        "result": null,
+        "result": {
+          "oppScore": 52,
+          "purdueScore": 38,
+          "win": false
+        },
         "tv": "BTN",
         "venue": "Rose Bowl"
       },
@@ -565,5 +569,5 @@
     "label": "2026",
     "season": 2026
   },
-  "updated": "2026-09-19"
+  "updated": "2026-09-20"
 }
