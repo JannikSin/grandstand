@@ -502,7 +502,7 @@
         "home": false,
         "id": "401858506",
         "opponent": "Penn State Nittany Lions",
-        "opponentRank": 14,
+        "opponentRank": 13,
         "opponentShort": "PSU",
         "purdueRank": null,
         "result": null,
@@ -530,7 +530,7 @@
         "home": false,
         "id": "401858519",
         "opponent": "Iowa Hawkeyes",
-        "opponentRank": 18,
+        "opponentRank": 17,
         "opponentShort": "IOWA",
         "purdueRank": null,
         "result": null,
@@ -558,7 +558,7 @@
         "home": false,
         "id": "401858538",
         "opponent": "Indiana Hoosiers",
-        "opponentRank": 4,
+        "opponentRank": 5,
         "opponentShort": "IU",
         "purdueRank": null,
         "result": null,
@@ -569,5 +569,5 @@
     "label": "2026",
     "season": 2026
   },
-  "updated": "2026-09-20"
+  "updated": "2026-09-21"
 }
