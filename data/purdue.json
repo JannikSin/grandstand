@@ -456,7 +456,7 @@
       {
         "city": "Champaign, IL",
         "conferenceGame": false,
-        "date": "2026-10-03T04:00Z",
+        "date": "2026-10-03T20:15Z",
         "home": false,
         "id": "401858472",
         "opponent": "Illinois Fighting Illini",
@@ -464,7 +464,7 @@
         "opponentShort": "ILL",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "BTN",
         "venue": "Gies Memorial Stadium"
       },
       {
@@ -569,5 +569,5 @@
     "label": "2026",
     "season": 2026
   },
-  "updated": "2026-09-21"
+  "updated": "2026-09-22"
 }
