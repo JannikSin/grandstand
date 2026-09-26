@@ -1510,12 +1510,12 @@
   "standings": {
     "constructors": [
       {
-        "points": 503,
+        "points": 538,
         "pos": 1,
         "team": "Mercedes"
       },
       {
-        "points": 358,
+        "points": 378,
         "pos": 2,
         "team": "Ferrari"
       },
@@ -1525,12 +1525,12 @@
         "team": "McLaren"
       },
       {
-        "points": 230,
+        "points": 263,
         "pos": 4,
         "team": "Red Bull"
       },
       {
-        "points": 77,
+        "points": 83,
         "pos": 5,
         "team": "RB F1 Team"
       },
@@ -1540,7 +1540,7 @@
         "team": "Alpine F1 Team"
       },
       {
-        "points": 21,
+        "points": 27,
         "pos": 7,
         "team": "Haas F1 Team"
       },
@@ -1550,7 +1550,7 @@
         "team": "Audi"
       },
       {
-        "points": 11,
+        "points": 12,
         "pos": 9,
         "team": "Williams"
       },
@@ -1563,19 +1563,19 @@
     "drivers": [
       {
         "driver": "Andrea Kimi Antonelli",
-        "points": 292,
+        "points": 302,
         "pos": 1,
         "team": "Mercedes"
       },
       {
         "driver": "George Russell",
-        "points": 211,
+        "points": 236,
         "pos": 2,
         "team": "Mercedes"
       },
       {
         "driver": "Lewis Hamilton",
-        "points": 191,
+        "points": 199,
         "pos": 3,
         "team": "Ferrari"
       },
@@ -1587,13 +1587,13 @@
       },
       {
         "driver": "Charles Leclerc",
-        "points": 167,
+        "points": 179,
         "pos": 5,
         "team": "Ferrari"
       },
       {
         "driver": "Max Verstappen",
-        "points": 145,
+        "points": 163,
         "pos": 6,
         "team": "Red Bull"
       },
@@ -1605,7 +1605,7 @@
       },
       {
         "driver": "Isack Hadjar",
-        "points": 71,
+        "points": 86,
         "pos": 8,
         "team": "Red Bull"
       },
@@ -1623,5 +1623,5 @@
       }
     ]
   },
-  "updated": "2026-09-25"
+  "updated": "2026-09-26"
 }

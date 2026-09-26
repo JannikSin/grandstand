@@ -1132,7 +1132,17 @@
       "country": "China",
       "end": "2026-09-29",
       "espnId": "1001",
-      "favorites": {},
+      "favorites": {
+        "Daniil Medvedev": {
+          "results": [
+            {
+              "opponent": "Valentin Royer",
+              "round": "Round 2",
+              "won": true
+            }
+          ]
+        }
+      },
       "id": "hangzhou",
       "indoor": false,
       "lat": 30.27,
@@ -1440,5 +1450,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-09-22"
+  "updated": "2026-09-26"
 }
