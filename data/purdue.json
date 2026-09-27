@@ -463,7 +463,11 @@
         "opponentRank": 3,
         "opponentShort": "ND",
         "purdueRank": null,
-        "result": null,
+        "result": {
+          "oppScore": 49,
+          "purdueScore": 10,
+          "win": false
+        },
         "tv": "Peacock",
         "venue": "Ross-Ade Stadium"
       },
@@ -583,5 +587,5 @@
     "label": "2026",
     "season": 2026
   },
-  "updated": "2026-09-26"
+  "updated": "2026-09-27"
 }

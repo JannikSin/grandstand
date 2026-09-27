@@ -1139,6 +1139,11 @@
               "opponent": "Valentin Royer",
               "round": "Round 2",
               "won": true
+            },
+            {
+              "opponent": "Chak Lam Coleman Wong",
+              "round": "Quarterfinal",
+              "won": true
             }
           ]
         }
@@ -1182,7 +1187,7 @@
       "city": "Tokyo",
       "country": "Japan",
       "end": "2026-10-06",
-      "espnId": null,
+      "espnId": "5",
       "favorites": {},
       "id": "tokyo",
       "indoor": false,
@@ -1201,7 +1206,7 @@
       "city": "Beijing",
       "country": "China",
       "end": "2026-10-06",
-      "espnId": null,
+      "espnId": "959",
       "favorites": {},
       "id": "beijing",
       "indoor": false,
@@ -1450,5 +1455,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-09-26"
+  "updated": "2026-09-27"
 }

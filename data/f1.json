@@ -1199,7 +1199,57 @@
       "lon": 49.8533,
       "name": "Azerbaijan Grand Prix",
       "raceTime": "2026-09-26T11:00:00Z",
-      "results": null,
+      "results": {
+        "podium": [
+          {
+            "driver": "George Russell",
+            "pos": 1,
+            "team": "Mercedes"
+          },
+          {
+            "driver": "Max Verstappen",
+            "pos": 2,
+            "team": "Red Bull"
+          },
+          {
+            "driver": "Isack Hadjar",
+            "pos": 3,
+            "team": "Red Bull"
+          }
+        ],
+        "watched": [
+          {
+            "driver": "George Russell",
+            "pos": 1,
+            "status": "Finished",
+            "team": "Mercedes"
+          },
+          {
+            "driver": "Max Verstappen",
+            "pos": 2,
+            "status": "Finished",
+            "team": "Red Bull"
+          },
+          {
+            "driver": "Charles Leclerc",
+            "pos": 4,
+            "status": "Finished",
+            "team": "Ferrari"
+          },
+          {
+            "driver": "Andrea Kimi Antonelli",
+            "pos": 5,
+            "status": "Finished",
+            "team": "Mercedes"
+          },
+          {
+            "driver": "Lewis Hamilton",
+            "pos": 6,
+            "status": "Finished",
+            "team": "Ferrari"
+          }
+        ]
+      },
       "round": 15,
       "sessions": [
         {
@@ -1623,5 +1673,5 @@
       }
     ]
   },
-  "updated": "2026-09-26"
+  "updated": "2026-09-27"
 }
