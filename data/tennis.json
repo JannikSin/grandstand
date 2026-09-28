@@ -1144,6 +1144,11 @@
               "opponent": "Chak Lam Coleman Wong",
               "round": "Quarterfinal",
               "won": true
+            },
+            {
+              "opponent": "Roman Safiullin",
+              "round": "Semifinal",
+              "won": true
             }
           ]
         }
@@ -1455,5 +1460,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-09-27"
+  "updated": "2026-09-28"
 }
