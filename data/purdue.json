@@ -544,7 +544,7 @@
       {
         "city": "West Lafayette, IN",
         "conferenceGame": false,
-        "date": "2026-10-10T04:00Z",
+        "date": "2026-10-11T00:00Z",
         "home": true,
         "id": "401858486",
         "opponent": "Minnesota Golden Gophers",
@@ -552,7 +552,7 @@
         "opponentShort": "MINN",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "BTN",
         "venue": "Ross-Ade Stadium"
       },
       {
@@ -643,5 +643,5 @@
     "label": "2026",
     "season": 2026
   },
-  "updated": "2026-09-28"
+  "updated": "2026-09-29"
 }
