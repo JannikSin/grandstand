@@ -1217,7 +1217,17 @@
       "country": "China",
       "end": "2026-10-06",
       "espnId": "959",
-      "favorites": {},
+      "favorites": {
+        "Novak Djokovic": {
+          "results": [
+            {
+              "opponent": "Nuno Borges",
+              "round": "Round 1",
+              "won": true
+            }
+          ]
+        }
+      },
       "id": "beijing",
       "indoor": false,
       "lat": 39.99,
@@ -1465,5 +1475,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-09-29"
+  "updated": "2026-09-30"
 }
