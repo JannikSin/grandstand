@@ -1198,7 +1198,17 @@
       "country": "Japan",
       "end": "2026-10-06",
       "espnId": "5",
-      "favorites": {},
+      "favorites": {
+        "Carlos Alcaraz": {
+          "results": [
+            {
+              "opponent": "Alex Michelsen",
+              "round": "Round 1",
+              "won": true
+            }
+          ]
+        }
+      },
       "id": "tokyo",
       "indoor": false,
       "lat": 35.63,
@@ -1218,6 +1228,15 @@
       "end": "2026-10-06",
       "espnId": "959",
       "favorites": {
+        "Flavio Cobolli": {
+          "results": [
+            {
+              "opponent": "Roman Safiullin",
+              "round": "Round 1",
+              "won": false
+            }
+          ]
+        },
         "Novak Djokovic": {
           "results": [
             {
@@ -1475,5 +1494,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-09-30"
+  "updated": "2026-10-01"
 }
