@@ -1228,6 +1228,15 @@
       "end": "2026-10-06",
       "espnId": "959",
       "favorites": {
+        "Daniil Medvedev": {
+          "results": [
+            {
+              "opponent": "Pablo Carreno Busta",
+              "round": "Round 1",
+              "won": true
+            }
+          ]
+        },
         "Flavio Cobolli": {
           "results": [
             {
@@ -1242,6 +1251,11 @@
             {
               "opponent": "Nuno Borges",
               "round": "Round 1",
+              "won": true
+            },
+            {
+              "opponent": "Bu Yunchaokete",
+              "round": "Round 2",
               "won": true
             }
           ]
@@ -1494,5 +1508,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-10-01"
+  "updated": "2026-10-02"
 }
