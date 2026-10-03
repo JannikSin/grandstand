@@ -1205,6 +1205,11 @@
               "opponent": "Alex Michelsen",
               "round": "Round 1",
               "won": true
+            },
+            {
+              "opponent": "Matteo Arnaldi",
+              "round": "Round 2",
+              "won": true
             }
           ]
         }
@@ -1233,6 +1238,11 @@
             {
               "opponent": "Pablo Carreno Busta",
               "round": "Round 1",
+              "won": true
+            },
+            {
+              "opponent": "Jan-Lennard Struff",
+              "round": "Round 2",
               "won": true
             }
           ]
@@ -1508,5 +1518,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-10-02"
+  "updated": "2026-10-03"
 }
