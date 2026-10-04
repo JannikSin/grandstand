@@ -1210,6 +1210,11 @@
               "opponent": "Matteo Arnaldi",
               "round": "Round 2",
               "won": true
+            },
+            {
+              "opponent": "Denis Shapovalov",
+              "round": "Quarterfinal",
+              "won": true
             }
           ]
         }
@@ -1244,6 +1249,11 @@
               "opponent": "Jan-Lennard Struff",
               "round": "Round 2",
               "won": true
+            },
+            {
+              "opponent": "Francisco Cerundolo",
+              "round": "Quarterfinal",
+              "won": true
             }
           ]
         },
@@ -1266,6 +1276,11 @@
             {
               "opponent": "Bu Yunchaokete",
               "round": "Round 2",
+              "won": true
+            },
+            {
+              "opponent": "Alexander Zverev",
+              "round": "Quarterfinal",
               "won": true
             }
           ]
@@ -1518,5 +1533,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-10-03"
+  "updated": "2026-10-04"
 }

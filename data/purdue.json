@@ -537,7 +537,11 @@
         "opponentRank": null,
         "opponentShort": "ILL",
         "purdueRank": null,
-        "result": null,
+        "result": {
+          "oppScore": 17,
+          "purdueScore": 24,
+          "win": true
+        },
         "tv": "BTN",
         "venue": "Gies Memorial Stadium"
       },
@@ -643,5 +647,5 @@
     "label": "2026",
     "season": 2026
   },
-  "updated": "2026-10-03"
+  "updated": "2026-10-04"
 }
