@@ -1215,6 +1215,11 @@
               "opponent": "Denis Shapovalov",
               "round": "Quarterfinal",
               "won": true
+            },
+            {
+              "opponent": "Jaume Munar",
+              "round": "Semifinal",
+              "won": true
             }
           ]
         }
@@ -1254,6 +1259,11 @@
               "opponent": "Francisco Cerundolo",
               "round": "Quarterfinal",
               "won": true
+            },
+            {
+              "opponent": "Novak Djokovic",
+              "round": "Semifinal",
+              "won": false
             }
           ]
         },
@@ -1282,6 +1292,11 @@
               "opponent": "Alexander Zverev",
               "round": "Quarterfinal",
               "won": true
+            },
+            {
+              "opponent": "Daniil Medvedev",
+              "round": "Semifinal",
+              "won": true
             }
           ]
         }
@@ -1303,7 +1318,7 @@
       "city": "Shanghai",
       "country": "China",
       "end": "2026-10-18",
-      "espnId": null,
+      "espnId": "315",
       "favorites": {},
       "id": "shanghai",
       "indoor": false,
@@ -1533,5 +1548,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-10-04"
+  "updated": "2026-10-05"
 }

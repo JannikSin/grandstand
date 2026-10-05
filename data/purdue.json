@@ -570,7 +570,7 @@
         "opponentShort": "WASH",
         "purdueRank": null,
         "result": null,
-        "tv": "FOX",
+        "tv": "Fox",
         "venue": "Ross-Ade Stadium"
       },
       {
@@ -608,7 +608,7 @@
         "home": false,
         "id": "401858519",
         "opponent": "Iowa Hawkeyes",
-        "opponentRank": 14,
+        "opponentRank": 20,
         "opponentShort": "IOWA",
         "purdueRank": null,
         "result": null,
@@ -636,7 +636,7 @@
         "home": false,
         "id": "401858538",
         "opponent": "Indiana Hoosiers",
-        "opponentRank": 6,
+        "opponentRank": 7,
         "opponentShort": "IU",
         "purdueRank": null,
         "result": null,
@@ -647,5 +647,5 @@
     "label": "2026",
     "season": 2026
   },
-  "updated": "2026-10-04"
+  "updated": "2026-10-05"
 }

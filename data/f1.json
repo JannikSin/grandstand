@@ -1284,7 +1284,57 @@
       "lon": 101.738,
       "name": "Bahrain Grand Prix in Malaysia",
       "raceTime": "2026-10-04T07:00:00Z",
-      "results": null,
+      "results": {
+        "podium": [
+          {
+            "driver": "Max Verstappen",
+            "pos": 1,
+            "team": "Red Bull"
+          },
+          {
+            "driver": "Andrea Kimi Antonelli",
+            "pos": 2,
+            "team": "Mercedes"
+          },
+          {
+            "driver": "Lewis Hamilton",
+            "pos": 3,
+            "team": "Ferrari"
+          }
+        ],
+        "watched": [
+          {
+            "driver": "Max Verstappen",
+            "pos": 1,
+            "status": "Finished",
+            "team": "Red Bull"
+          },
+          {
+            "driver": "Andrea Kimi Antonelli",
+            "pos": 2,
+            "status": "Finished",
+            "team": "Mercedes"
+          },
+          {
+            "driver": "Lewis Hamilton",
+            "pos": 3,
+            "status": "Finished",
+            "team": "Ferrari"
+          },
+          {
+            "driver": "Charles Leclerc",
+            "pos": 4,
+            "status": "Finished",
+            "team": "Ferrari"
+          },
+          {
+            "driver": "George Russell",
+            "pos": 20,
+            "status": "Retired",
+            "team": "Mercedes"
+          }
+        ]
+      },
       "round": 16,
       "sessions": [
         {
@@ -1560,27 +1610,27 @@
   "standings": {
     "constructors": [
       {
-        "points": 538,
+        "points": 556,
         "pos": 1,
         "team": "Mercedes"
       },
       {
-        "points": 378,
+        "points": 405,
         "pos": 2,
         "team": "Ferrari"
       },
       {
-        "points": 306,
+        "points": 316,
         "pos": 3,
         "team": "McLaren"
       },
       {
-        "points": 263,
+        "points": 298,
         "pos": 4,
         "team": "Red Bull"
       },
       {
-        "points": 83,
+        "points": 90,
         "pos": 5,
         "team": "RB F1 Team"
       },
@@ -1605,7 +1655,7 @@
         "team": "Williams"
       },
       {
-        "points": 3,
+        "points": 7,
         "pos": 10,
         "team": "Aston Martin"
       }
@@ -1613,7 +1663,7 @@
     "drivers": [
       {
         "driver": "Andrea Kimi Antonelli",
-        "points": 302,
+        "points": 320,
         "pos": 1,
         "team": "Mercedes"
       },
@@ -1625,43 +1675,43 @@
       },
       {
         "driver": "Lewis Hamilton",
-        "points": 199,
+        "points": 214,
         "pos": 3,
         "team": "Ferrari"
       },
       {
-        "driver": "Lando Norris",
-        "points": 186,
-        "pos": 4,
-        "team": "McLaren"
-      },
-      {
         "driver": "Charles Leclerc",
-        "points": 179,
-        "pos": 5,
+        "points": 191,
+        "pos": 4,
         "team": "Ferrari"
       },
       {
+        "driver": "Lando Norris",
+        "points": 188,
+        "pos": 5,
+        "team": "McLaren"
+      },
+      {
         "driver": "Max Verstappen",
-        "points": 163,
+        "points": 188,
         "pos": 6,
         "team": "Red Bull"
       },
       {
         "driver": "Oscar Piastri",
-        "points": 120,
+        "points": 128,
         "pos": 7,
         "team": "McLaren"
       },
       {
         "driver": "Isack Hadjar",
-        "points": 86,
+        "points": 96,
         "pos": 8,
         "team": "Red Bull"
       },
       {
         "driver": "Liam Lawson",
-        "points": 59,
+        "points": 65,
         "pos": 9,
         "team": "RB F1 Team"
       },
@@ -1673,5 +1723,5 @@
       }
     ]
   },
-  "updated": "2026-10-04"
+  "updated": "2026-10-05"
 }
