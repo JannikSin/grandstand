@@ -1193,7 +1193,7 @@
       "venue": "The O2 Arena"
     },
     {
-      "champion": null,
+      "champion": "Carlos Alcaraz",
       "city": "Tokyo",
       "country": "Japan",
       "end": "2026-10-06",
@@ -1220,6 +1220,11 @@
               "opponent": "Jaume Munar",
               "round": "Semifinal",
               "won": true
+            },
+            {
+              "opponent": "Jiri Lehecka",
+              "round": "Final",
+              "won": true
             }
           ]
         }
@@ -1230,14 +1235,14 @@
       "lon": 139.79,
       "name": "Kinoshita Group Japan Open",
       "notes": "Japan's flagship event, retractable-roof stadium",
-      "runnerUp": null,
+      "runnerUp": "Jiri Lehecka",
       "start": "2026-09-30",
       "surface": "hard",
       "tier": "atp500",
       "venue": "Ariake Coliseum"
     },
     {
-      "champion": null,
+      "champion": "Novak Djokovic",
       "city": "Beijing",
       "country": "China",
       "end": "2026-10-06",
@@ -1297,6 +1302,11 @@
               "opponent": "Daniil Medvedev",
               "round": "Semifinal",
               "won": true
+            },
+            {
+              "opponent": "Alex de Minaur",
+              "round": "Final",
+              "won": true
             }
           ]
         }
@@ -1307,7 +1317,7 @@
       "lon": 116.32,
       "name": "China Open",
       "notes": "Beijing 500 on the 2008 Olympic courts, Wednesday start",
-      "runnerUp": null,
+      "runnerUp": "Alex de Minaur",
       "start": "2026-09-30",
       "surface": "hard",
       "tier": "atp500",
@@ -1548,5 +1558,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-10-05"
+  "updated": "2026-10-06"
 }
