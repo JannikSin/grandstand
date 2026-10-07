@@ -12,13 +12,13 @@
         "opponentShort": "GONZ",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "TNT",
         "venue": "T-Mobile Arena"
       },
       {
         "city": "West Lafayette, IN",
         "conferenceGame": false,
-        "date": "2026-11-06T05:00Z",
+        "date": "2026-11-06T23:30Z",
         "home": true,
         "id": "401926131",
         "opponent": "Valparaiso Beacons",
@@ -26,13 +26,13 @@
         "opponentShort": "VAL",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "BTN",
         "venue": "Mackey Arena"
       },
       {
         "city": "West Lafayette, IN",
         "conferenceGame": false,
-        "date": "2026-11-09T05:00Z",
+        "date": "2026-11-10T01:30Z",
         "home": true,
         "id": "401926132",
         "opponent": "Illinois State Redbirds",
@@ -40,13 +40,13 @@
         "opponentShort": "ILST",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "FS1",
         "venue": "Mackey Arena"
       },
       {
         "city": "West Lafayette, IN",
         "conferenceGame": false,
-        "date": "2026-11-13T05:00Z",
+        "date": "2026-11-14T00:00Z",
         "home": true,
         "id": "401926133",
         "opponent": "Ohio Bobcats",
@@ -54,13 +54,13 @@
         "opponentShort": "OHIO",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "B1G+",
         "venue": "Mackey Arena"
       },
       {
         "city": "West Lafayette, IN",
         "conferenceGame": false,
-        "date": "2026-11-17T05:00Z",
+        "date": "2026-11-17T23:30Z",
         "home": true,
         "id": "401920706",
         "opponent": "Lipscomb Bisons",
@@ -68,13 +68,13 @@
         "opponentShort": "LIP",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "BTN",
         "venue": "Mackey Arena"
       },
       {
         "city": "West Lafayette, IN",
         "conferenceGame": false,
-        "date": "2026-11-20T05:00Z",
+        "date": "2026-11-21T00:00Z",
         "home": true,
         "id": "401926134",
         "opponent": "Oakland Golden Grizzlies",
@@ -82,7 +82,7 @@
         "opponentShort": "OAK",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "BTN",
         "venue": "Mackey Arena"
       },
       {
@@ -96,7 +96,7 @@
         "opponentShort": "DEP",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "FS1",
         "venue": "Suncoast Credit Union Arena"
       },
       {
@@ -110,13 +110,13 @@
         "opponentShort": "OU",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "Fox",
         "venue": "Suncoast Credit Union Arena"
       },
       {
         "city": "West Lafayette, IN",
         "conferenceGame": false,
-        "date": "2026-12-01T05:00Z",
+        "date": "2026-12-02T00:00Z",
         "home": true,
         "id": "401921874",
         "opponent": "Iowa Hawkeyes",
@@ -124,7 +124,7 @@
         "opponentShort": "IOWA",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "Peacock",
         "venue": "Mackey Arena"
       },
       {
@@ -144,7 +144,7 @@
       {
         "city": "Madison, WI",
         "conferenceGame": false,
-        "date": "2026-12-08T05:00Z",
+        "date": "2026-12-09T02:00Z",
         "home": false,
         "id": "401921885",
         "opponent": "Wisconsin Badgers",
@@ -152,13 +152,13 @@
         "opponentShort": "WIS",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "Peacock",
         "venue": "Kohl Center"
       },
       {
         "city": "West Lafayette, IN",
         "conferenceGame": false,
-        "date": "2026-12-11T05:00Z",
+        "date": "2026-12-12T01:00Z",
         "home": true,
         "id": "401906856",
         "opponent": "Tennessee Volunteers",
@@ -166,13 +166,13 @@
         "opponentShort": "TENN",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "Fox",
         "venue": "Mackey Arena"
       },
       {
         "city": "Indianapolis, IN",
         "conferenceGame": false,
-        "date": "2026-12-19T05:00Z",
+        "date": "2026-12-19T22:30Z",
         "home": true,
         "id": "401909768",
         "opponent": "Colorado Buffaloes",
@@ -180,13 +180,13 @@
         "opponentShort": "COLO",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "FS1",
         "venue": "Gainbridge Fieldhouse"
       },
       {
         "city": "West Lafayette, IN",
         "conferenceGame": false,
-        "date": "2026-12-21T05:00Z",
+        "date": "2026-12-21T23:00Z",
         "home": true,
         "id": "401920347",
         "opponent": "California Baptist Lancers",
@@ -194,13 +194,13 @@
         "opponentShort": "CBU",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "BTN",
         "venue": "Mackey Arena"
       },
       {
         "city": "West Lafayette, IN",
         "conferenceGame": false,
-        "date": "2026-12-30T05:00Z",
+        "date": "2026-12-30T23:00Z",
         "home": true,
         "id": "401921892",
         "opponent": "USC Trojans",
@@ -208,13 +208,13 @@
         "opponentShort": "USC",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "BTN",
         "venue": "Mackey Arena"
       },
       {
         "city": "West Lafayette, IN",
         "conferenceGame": false,
-        "date": "2027-01-02T05:00Z",
+        "date": "2027-01-02T17:00Z",
         "home": true,
         "id": "401921898",
         "opponent": "Rutgers Scarlet Knights",
@@ -222,13 +222,13 @@
         "opponentShort": "RUTG",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "BTN",
         "venue": "Mackey Arena"
       },
       {
         "city": "Champaign, IL",
         "conferenceGame": false,
-        "date": "2027-01-05T05:00Z",
+        "date": "2027-01-06T02:00Z",
         "home": false,
         "id": "401921900",
         "opponent": "Illinois Fighting Illini",
@@ -236,13 +236,13 @@
         "opponentShort": "ILL",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "Peacock",
         "venue": "State Farm Center"
       },
       {
         "city": "Ann Arbor, MI",
         "conferenceGame": false,
-        "date": "2027-01-08T05:00Z",
+        "date": "2027-01-09T01:00Z",
         "home": false,
         "id": "401921907",
         "opponent": "Michigan Wolverines",
@@ -250,13 +250,13 @@
         "opponentShort": "MICH",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "Fox",
         "venue": "Crisler Center"
       },
       {
         "city": "West Lafayette, IN",
         "conferenceGame": false,
-        "date": "2027-01-12T05:00Z",
+        "date": "2027-01-13T01:00Z",
         "home": true,
         "id": "401921915",
         "opponent": "Ohio State Buckeyes",
@@ -264,13 +264,13 @@
         "opponentShort": "OSU",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "Peacock",
         "venue": "Mackey Arena"
       },
       {
         "city": "Minneapolis, MN",
         "conferenceGame": false,
-        "date": "2027-01-17T05:00Z",
+        "date": "2027-01-17T19:00Z",
         "home": false,
         "id": "401921925",
         "opponent": "Minnesota Golden Gophers",
@@ -278,13 +278,13 @@
         "opponentShort": "MINN",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "BTN",
         "venue": "The Barn by Blue Cross and Blue Shield of Minnesota"
       },
       {
         "city": "University Park, PA",
         "conferenceGame": false,
-        "date": "2027-01-20T05:00Z",
+        "date": "2027-01-20T23:30Z",
         "home": false,
         "id": "401921930",
         "opponent": "Penn State Nittany Lions",
@@ -292,13 +292,13 @@
         "opponentShort": "PSU",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "BTN",
         "venue": "Bryce Jordan Center"
       },
       {
         "city": "West Lafayette, IN",
         "conferenceGame": false,
-        "date": "2027-01-23T05:00Z",
+        "date": "2027-01-23T17:00Z",
         "home": true,
         "id": "401921936",
         "opponent": "Maryland Terrapins",
@@ -306,13 +306,13 @@
         "opponentShort": "MD",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "FS1",
         "venue": "Mackey Arena"
       },
       {
         "city": "West Lafayette, IN",
         "conferenceGame": false,
-        "date": "2027-01-26T05:00Z",
+        "date": "2027-01-26T23:00Z",
         "home": true,
         "id": "401921942",
         "opponent": "Nebraska Cornhuskers",
@@ -320,7 +320,7 @@
         "opponentShort": "NEB",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "Peacock",
         "venue": "Mackey Arena"
       },
       {
@@ -334,13 +334,13 @@
         "opponentShort": "MSU",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "Fox",
         "venue": "Breslin Center"
       },
       {
         "city": "Piscataway, NJ",
         "conferenceGame": false,
-        "date": "2027-02-03T05:00Z",
+        "date": "2027-02-03T23:30Z",
         "home": false,
         "id": "401921954",
         "opponent": "Rutgers Scarlet Knights",
@@ -348,13 +348,13 @@
         "opponentShort": "RUTG",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "BTN",
         "venue": "Jersey Mike’s Arena"
       },
       {
         "city": "West Lafayette, IN",
         "conferenceGame": false,
-        "date": "2027-02-06T05:00Z",
+        "date": "2027-02-06T17:00Z",
         "home": true,
         "id": "401921958",
         "opponent": "Northwestern Wildcats",
@@ -362,13 +362,13 @@
         "opponentShort": "NU",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "FS1",
         "venue": "Mackey Arena"
       },
       {
         "city": "West Lafayette, IN",
         "conferenceGame": false,
-        "date": "2027-02-12T05:00Z",
+        "date": "2027-02-13T01:00Z",
         "home": true,
         "id": "401921969",
         "opponent": "Illinois Fighting Illini",
@@ -376,13 +376,13 @@
         "opponentShort": "ILL",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "Fox",
         "venue": "Mackey Arena"
       },
       {
         "city": "Bloomington, IN",
         "conferenceGame": false,
-        "date": "2027-02-16T05:00Z",
+        "date": "2027-02-17T00:00Z",
         "home": false,
         "id": "401921795",
         "opponent": "Indiana Hoosiers",
@@ -390,13 +390,13 @@
         "opponentShort": "IU",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "Peacock",
         "venue": "Simon Skjodt Assembly Hall"
       },
       {
         "city": "West Lafayette, IN",
         "conferenceGame": false,
-        "date": "2027-02-21T05:00Z",
+        "date": "2027-02-21T18:00Z",
         "home": true,
         "id": "401921989",
         "opponent": "UCLA Bruins",
@@ -404,13 +404,13 @@
         "opponentShort": "UCLA",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "CBS",
         "venue": "Mackey Arena"
       },
       {
         "city": "Eugene, OR",
         "conferenceGame": false,
-        "date": "2027-02-24T05:00Z",
+        "date": "2027-02-25T03:30Z",
         "home": false,
         "id": "401921995",
         "opponent": "Oregon Ducks",
@@ -418,13 +418,13 @@
         "opponentShort": "ORE",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "BTN",
         "venue": "Matthew Knight Arena"
       },
       {
         "city": "Seattle, WA",
         "conferenceGame": false,
-        "date": "2027-02-27T05:00Z",
+        "date": "2027-02-28T01:30Z",
         "home": false,
         "id": "401922002",
         "opponent": "Washington Huskies",
@@ -432,13 +432,13 @@
         "opponentShort": "WASH",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "BTN",
         "venue": "Alaska Airlines Arena"
       },
       {
         "city": "West Lafayette, IN",
         "conferenceGame": false,
-        "date": "2027-03-05T05:00Z",
+        "date": "2027-03-06T01:00Z",
         "home": true,
         "id": "401921799",
         "opponent": "Indiana Hoosiers",
@@ -446,7 +446,7 @@
         "opponentShort": "IU",
         "purdueRank": null,
         "result": null,
-        "tv": "",
+        "tv": "Fox",
         "venue": "Mackey Arena"
       }
     ],
@@ -647,5 +647,5 @@
     "label": "2026",
     "season": 2026
   },
-  "updated": "2026-10-06"
+  "updated": "2026-10-07"
 }
