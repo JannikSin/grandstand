@@ -1329,7 +1329,26 @@
       "country": "China",
       "end": "2026-10-18",
       "espnId": "315",
-      "favorites": {},
+      "favorites": {
+        "Flavio Cobolli": {
+          "results": [
+            {
+              "opponent": "Adrian Mannarino",
+              "round": "Round 2",
+              "won": false
+            }
+          ]
+        },
+        "Novak Djokovic": {
+          "results": [
+            {
+              "opponent": "Hubert Hurkacz",
+              "round": "Round 2",
+              "won": false
+            }
+          ]
+        }
+      },
       "id": "shanghai",
       "indoor": false,
       "lat": 31.03,
@@ -1558,5 +1577,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-10-06"
+  "updated": "2026-10-09"
 }
