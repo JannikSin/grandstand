@@ -1330,6 +1330,24 @@
       "end": "2026-10-18",
       "espnId": "315",
       "favorites": {
+        "Carlos Alcaraz": {
+          "results": [
+            {
+              "opponent": "Juan Manuel Cerundolo",
+              "round": "Round 2",
+              "won": true
+            }
+          ]
+        },
+        "Daniil Medvedev": {
+          "results": [
+            {
+              "opponent": "Jan-Lennard Struff",
+              "round": "Round 2",
+              "won": true
+            }
+          ]
+        },
         "Flavio Cobolli": {
           "results": [
             {
@@ -1577,5 +1595,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-10-09"
+  "updated": "2026-10-10"
 }
