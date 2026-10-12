@@ -1336,6 +1336,11 @@
               "opponent": "Juan Manuel Cerundolo",
               "round": "Round 2",
               "won": true
+            },
+            {
+              "opponent": "Zizou Bergs",
+              "round": "Round 3",
+              "won": false
             }
           ]
         },
@@ -1344,6 +1349,11 @@
             {
               "opponent": "Jan-Lennard Struff",
               "round": "Round 2",
+              "won": true
+            },
+            {
+              "opponent": "Dalibor Svrcina",
+              "round": "Round 3",
               "won": true
             }
           ]
@@ -1595,5 +1605,5 @@
     }
   ],
   "season": 2026,
-  "updated": "2026-10-10"
+  "updated": "2026-10-12"
 }

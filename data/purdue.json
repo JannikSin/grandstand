@@ -612,7 +612,7 @@
         "home": false,
         "id": "401858519",
         "opponent": "Iowa Hawkeyes",
-        "opponentRank": 20,
+        "opponentRank": 17,
         "opponentShort": "IOWA",
         "purdueRank": null,
         "result": null,
@@ -640,7 +640,7 @@
         "home": false,
         "id": "401858538",
         "opponent": "Indiana Hoosiers",
-        "opponentRank": 7,
+        "opponentRank": 5,
         "opponentShort": "IU",
         "purdueRank": null,
         "result": null,
@@ -651,5 +651,5 @@
     "label": "2026",
     "season": 2026
   },
-  "updated": "2026-10-11"
+  "updated": "2026-10-12"
 }
